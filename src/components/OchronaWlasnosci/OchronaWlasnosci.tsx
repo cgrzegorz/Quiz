@@ -1,7 +1,6 @@
 import quizData from "../../Data/ochronaWlasnosci.json";
 import { QuizTemplate } from "../QuizTemplate/QuizTemplate.tsx";
 
-// Definiujemy interfejs (lub importujemy go, jeśli masz go w osobnym pliku)
 interface Question {
   id: number;
   question: string;
@@ -11,7 +10,6 @@ interface Question {
 }
 
 export const OchronaWlasnosci = () => {
-  // 3. Renderujemy szablon, wstrzykując mu nowy tytuł i nowe dane
   return (
     <QuizTemplate
       title="Quiz z Ochrony Własności Intelektualnej"
