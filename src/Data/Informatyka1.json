@@ -1,0 +1,1154 @@
+[
+  {
+    "id": 1,
+    "question": "Jaka jest definicja informatyki?",
+    "options": {
+      "A": "Dyscyplina naukowa zajmująca się wyłącznie budową komputerów.",
+      "B": "Dyscyplina naukowa zajmująca się przetwarzaniem informacji z użyciem komputerów.",
+      "C": "Dyscyplina naukowa badająca wyłącznie języki programowania.",
+      "D": "Dyscyplina naukowa zajmująca się teorią informacji i jej przesyłaniem."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 2,
+    "question": "Z jaką dziedziną nauki informatyka pozostaje w ścisłej relacji, która dostarcza jej podstaw teoretycznych?",
+    "options": {
+      "A": "Z fizyką",
+      "B": "Z matematyką",
+      "C": "Z lingwistyką",
+      "D": "Z socjologią"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 3,
+    "question": "Który dział informatyki jest opisany jako 'podstawowa, najstarsza dyscyplina'?",
+    "options": {
+      "A": "Administracja sieciowa",
+      "B": "Sztuczna inteligencja",
+      "C": "Algorytmika",
+      "D": "Programowanie komputerów"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 4,
+    "question": "Czym zajmuje się 'informatyka afektywna'?",
+    "options": {
+      "A": "Dostarczaniem cyfrowych środków dowodowych.",
+      "B": "Wykorzystywaniem techniki komputerowej w celu wizualizacji.",
+      "C": "Budową systemów rozpoznających emocje użytkowników.",
+      "D": "Komputerową symulacją z wykorzystaniem modelowania matematycznego."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 5,
+    "question": "Jak w prezentacji zdefiniowano 'Internet'?",
+    "options": {
+      "A": "Lokalna sieć komputerowa, która nie jest publicznie dostępna.",
+      "B": "Wyimaginowana przestrzeń, w której dzieje się cała aktywność internetowa.",
+      "C": "Rozszerzenie lokalnej sieci komputerowej dostępne dla klientów i dostawców.",
+      "D": "Globalna komputerowa sieć publiczna posługująca się protokołem TCP/IP."
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 6,
+    "question": "W jakiej powieści science-fiction po raz pierwszy pojawiło się słowo 'cyberprzestrzeń'?",
+    "options": {
+      "A": "W 'Diunie' Franka Herberta.",
+      "B": "W 'Roku 1984' George'a Orwella.",
+      "C": "W 'Newromancer' Williama Gibsona.",
+      "D": "W 'Fundacji' Isaaca Asimova."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 7,
+    "question": "Jakim terminem w terminologii TCP/IP nazywana jest 'brama' (Gateway)?",
+    "options": {
+      "A": "Router",
+      "B": "Hub",
+      "C": "Host",
+      "D": "Modem"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 8,
+    "question": "Czym 'Host' różni się od 'Servera' według podanych definicji?",
+    "options": {
+      "A": "Host świadczy usługi, a Server z nich korzysta.",
+      "B": "Host realizuje funkcję przetwarzania danych, a ver głównie świadczy usłuSergi (np. plikowe).",
+      "C": "Host jest urządzeniem centralnym w topologii gwiazdy, a Server nie.",
+      "D": "Host używa protokołu TCP/IP, a Server używa DNS."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 9,
+    "question": "Do czego służy komenda 'PING'?",
+    "options": {
+      "A": "Do przesyłania plików między komputerami.",
+      "B": "Do wysyłania komunikatu sprawdzającego, czy inny komputer jest aktywny w sieci.",
+      "C": "Do konfigurowania urządzeń sieciowych i zbierania informacji o ich działaniu.",
+      "D": "Do zdalnego logowania się na odległym komputerze przez konsolę tekstową."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 10,
+    "question": "Co jest kluczową cechą protokołu 'IPv6' w porównaniu do poprzedniej wersji?",
+    "options": {
+      "A": "Znacznie zwiększona długość adresu.",
+      "B": "Możliwość wysyłania poczty e-mail.",
+      "C": "Szyfrowanie połączenia terminala sieciowego.",
+      "D": "Zamiana nazwy na kod liczbowy."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 11,
+    "question": "Jaką funkcję pełni 'DNS (Domain Name Service)'?",
+    "options": {
+      "A": "Świadczy usługi plikowe i dyskowe dla klientów.",
+      "B": "Umożliwia przesyłanie danych cyfrowych po liniach analogowych.",
+      "C": "Zamienia łatwe do zapamiętania nazwy (np. adres strony) na liczbowy adres IP.",
+      "D": "Służy do prowadzenia rozmów za pomocą konsoli tekstowej."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 12,
+    "question": "Co oznacza domena organizacyjna '.org'?",
+    "options": {
+      "A": "Ośrodek rządowy",
+      "B": "Organizacja prowadząca działalność komercyjną",
+      "C": "Organizacja niedochodowa",
+      "D": "Instytucja wojskowa"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 13,
+    "question": "Który protokół jest zalecany do stosowania zamiast 'TELNET' ze względu na oferowane szyfrowanie?",
+    "options": {
+      "A": "SSH (Secure Shell Login)",
+      "B": "SMTP (Simple Mail Transfer Protocol)",
+      "C": "FTP (File Transfer Protocol)",
+      "D": "HTTP (Hypertext Transfer Protocol)"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 14,
+    "question": "Do czego służy protokół 'SMTP'?",
+    "options": {
+      "A": "Do odbierania poczty z serwera.",
+      "B": "Do wysyłania poczty elektronicznej (e-mail).",
+      "C": "Do przesyłania plików.",
+      "D": "Do przesyłania stron WWW."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 15,
+    "question": "Jaki protokół umożliwia transmisję i odbiór plików z odległego systemu?",
+    "options": {
+      "A": "POP (postoffice)",
+      "B": "HTTP (Hypertext Transfer Protocol)",
+      "C": "IRC (Internet Relay Chat)",
+      "D": "FTP (File Transfer Protocol)"
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 16,
+    "question": "Czym jest 'HTML'?",
+    "options": {
+      "A": "Protokół odpowiedzialny za przesyłanie stron WWW.",
+      "B": "Język znaczników hipertekstowych służący do opisu dokumentów i formatowania stron WWW.",
+      "C": "Standard formatu zapisu adresu i lokacji w Internecie (np. www.adres.com.pl).",
+      "D": "Tekst z wbudowanymi odsyłaczami do innych tekstów, obrazów czy dźwięku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 17,
+    "question": "Kto jest odpowiedzialny za 'sprawność oprogramowania i sprzętu w sieci' oraz 'ochronę zasobów'?",
+    "options": {
+      "A": "Moderator",
+      "B": "Administrator",
+      "C": "Host",
+      "D": "Webmaster"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 18,
+    "question": "Do czego służy 'MODEM'?",
+    "options": {
+      "A": "Do łączenia sieci o różnych protokołach.",
+      "B": "Do przesyłania danych cyfrowych po liniach analogowych.",
+      "C": "Do tworzenia kopii zapasowych danych.",
+      "D": "Do przechowywania danych zgodnie z określonymi regułami."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 19,
+    "question": "Kto jest uznawany za konstruktora pierwszego języka 'Assembler' w 1945 roku?",
+    "options": {
+      "A": "Bill Gates i Paul Allen",
+      "B": "Dennis Ritchie",
+      "C": "Konrad Zuse",
+      "D": "Bjarne Stroustrup"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 20,
+    "question": "Jaki język programowania został opracowany w 1964 przez Johna George'a Kemeny'ego i Thomasa E. Kurtza?",
+    "options": {
+      "A": "FORTRAN",
+      "B": "C",
+      "C": "Pascal",
+      "D": "Basic"
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 21,
+    "question": "Kto jest twórcą języka programowania 'C++'?",
+    "options": {
+      "A": "Dennis Ritchie",
+      "B": "Bjarne Stroustrup",
+      "C": "Niklaus Wirth",
+      "D": "Konrad Zuse"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 22,
+    "question": "Czym jest 'Bit'?",
+    "options": {
+      "A": "Najmniejsza adresowalna jednostka informacji pamięci komputerowej, równa 8 bitom.",
+      "B": "Najmniejsza ilość informacji, przyjmująca wartość 0 lub 1.",
+      "C": "Jednostka szybkości transmisji danych, równa 1000 bitów.",
+      "D": "Język programowania niskiego poziomu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 23,
+    "question": "Czym jest 'Bajt'?",
+    "options": {
+      "A": "Najmniejsza ilość informacji, przyjmująca wartość 0 lub 1.",
+      "B": "Najmniejsza adresowalna jednostka informacji pamięci komputerowej, zazwyczaj równa 8 bitom.",
+      "C": "Słowo maszynowe równe 2 bitom.",
+      "D": "Przedrostek binarny oznaczający 1024."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 24,
+    "question": "Jaka jest różnica między przedrostkiem 'kilobit (kb)' a 'kibibit (Kib)'?",
+    "options": {
+      "A": "Nie ma różnicy, to ten sam przedrostek.",
+      "B": "kb to 1024 bity, a Kib to 1000 bitów.",
+      "C": "kb to 1000 bitów (mnożnik 10^3), a Kib to 1024 bity (mnożnik 2^10).",
+      "D": "kb służy do pomiaru pamięci, a Kib do szybkości transmisji."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 25,
+    "question": "Dzięki jakiemu matematykowi posługujemy się w Europie cyframi arabskimi?",
+    "options": {
+      "A": "Konrad Zuse",
+      "B": "Leonardo z Pizy (Fibonacci)",
+      "C": "Niklaus Wirth",
+      "D": "John Backus"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 26,
+    "question": "Jak definiowany jest każdy następny wyraz w ciągu Fibonacciego (dla n > 2)?",
+    "options": {
+      "A": "Jest iloczynem dwóch poprzednich.",
+      "B": "Jest sumą dwóch poprzednich.",
+      "C": "Jest podwojeniem poprzedniego wyrazu.",
+      "D": "Jest poprzednim wyrazem podniesionym do kwadratu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 27,
+    "question": "Do jakiej wartości (Złotej Liczby) zbliża się stosunek dwóch kolejnych wyrazów ciągu Fibonacciego (F(n+1)/F(n))?",
+    "options": {
+      "A": "Około 1.618...",
+      "B": "Około 3.141...",
+      "C": "Około 2.718...",
+      "D": "Dokładnie 2.0"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 28,
+    "question": "Co to jest pozycyjny system liczbowy?",
+    "options": {
+      "A": "System, w którym znaczenie cyfry nie zależy od jej pozycji.",
+      "B": "System, w którym znaczenie cyfry zależy od miejsca (pozycji), na której się znajduje.",
+      "C": "System używający tylko cyfr 0 i 1.",
+      "D": "System oparty na ciągu Fibonacciego."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 29,
+    "question": "Ile cyfr jest używanych w systemie pozycyjnym o podstawie 'p'?",
+    "options": {
+      "A": "Zawsze 10 cyfr, niezależnie od podstawy.",
+      "B": "Zawsze p-1 cyfr.",
+      "C": "Zawsze 'p' cyfr (od 0 do p-1).",
+      "D": "Zawsze 2 cyfry (0 i 1)."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 30,
+    "question": "Jakiej cyfrze w systemie dziesiętnym odpowiada cyfra 'E' w systemie heksadecymalnym (szesnastkowym)?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "15"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 31,
+    "question": "Jaka jest wartość liczby binarnej 10011(2) w systemie dziesiętnym?",
+    "options": {
+      "A": "19",
+      "B": "25",
+      "C": "11",
+      "D": "5"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 32,
+    "question": "Jaka jest wartość liczby szesnastkowej 2AC(16) w systemie dziesiętnym?",
+    "options": {
+      "A": "212",
+      "B": "540",
+      "C": "684",
+      "D": "342"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 33,
+    "question": "Jaka jest wartość liczby dziesiętnej (185)10 w systemie binarnym?",
+    "options": {
+      "A": "10111001",
+      "B": "11010011",
+      "C": "10110101",
+      "D": "10011011"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 34,
+    "question": "Jaka jest wartość liczby dziesiętnej (185)10 w systemie ósemkowym?",
+    "options": {
+      "A": "231",
+      "B": "301",
+      "C": "271",
+      "D": "172"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 35,
+    "question": "Jaka jest wartość liczby dziesiętnej (0,625)10 w systemie binarnym?",
+    "options": {
+      "A": "0,101",
+      "B": "0,011",
+      "C": "0,110",
+      "D": "0,5"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 36,
+    "question": "Jaki jest wynik dodawania binarnego 1+1?",
+    "options": {
+      "A": "Wynik to 1, przeniesienie 0.",
+      "B": "Wynik to 0, przeniesienie 1.",
+      "C": "Wynik to 0, przeniesienie 0.",
+      "D": "Wynik to 2, przeniesienie 0."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 37,
+    "question": "Jaki jest wynik odejmowania binarnego 0-1?",
+    "options": {
+      "A": "Różnica to 0, pożyczka 0.",
+      "B": "Różnica to 1, pożyczka 0.",
+      "C": "Różnica to -1, pożyczka 0.",
+      "D": "Różnica to 1, pożyczka 1."
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 38,
+    "question": "Co oznacza 'Overflow' (nadmiar) w arytmetyce binarnej?",
+    "options": {
+      "A": "Sytuację, gdy wynik operacji jest za mały, by go zapisać (np. 0 - 1).",
+      "B": "Sytuację, gdy wynik operacji (np. dodawania) jest za duży, by go zapisać na dostępnej liczbie bitów.",
+      "C": "Sytuację, gdy dzielimy przez zero.",
+      "D": "Błąd konwersji liczby z systemu dziesiętnego na binarny."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 39,
+    "question": "Co oznacza 'Underflow' (niedomiar) w arytmetyce binarnej?",
+    "options": {
+      "A": "Sytuację, gdy wynik operacji jest za duży (np. 255 + 1 na 8 bitach).",
+      "B": "Sytuację, gdy wynik operacji (np. odejmowania) jest za mały, by go zapisać (np. 0 - 1 na 8 bitach).",
+      "C": "Błąd zapisu pliku na dysku.",
+      "D": "Niepoprawny format adresu IP."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 41,
+    "question": "Z jakich trzech źródeł, według prezentacji, można wstawić obraz do dokumentu MS Word?",
+    "options": {
+      "A": "To urządzenie, Bank obrazów, Obrazy online.",
+      "B": "To urządzenie, Skaner, Aparat fotograficzny.",
+      "C": "Bank obrazów, Zrzut ekranu, Pliki z OneDrive.",
+      "D": "Obrazy online, Schowek, Pliki tymczasowe."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 42,
+    "question": "Jak nazywa się funkcja w MS Word służąca do wstawiania gotowych schematów list, procesów lub hierarchii?",
+    "options": {
+      "A": "WordArt",
+      "B": "SmartArt",
+      "C": "Kształty",
+      "D": "Wykres"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 43,
+    "question": "Gdzie w dokumencie MS Word domyślnie znajduje się tekst wstawiony jako 'Stopka'?",
+    "options": {
+      "A": "W górnej części okna, tylko na pierwszej stronie.",
+      "B": "W dolnej części okna, na każdej stronie.",
+      "C": "Na lewym marginesie, na stronach parzystych.",
+      "D": "W okienku notatek, niewidocznym na wydruku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 44,
+    "question": "Co należy zrobić w opcjach numeracji stron w MS Word, aby numeracja zaczynała się od '1' dopiero na drugiej stronie?",
+    "options": {
+      "A": "Ustawić opcję 'Rozpocznij od' na 1.",
+      "B": "Ustawić opcję 'Rozpocznij od' na 2.",
+      "C": "Ustawić dla opcji 'Rozpocznij od' wartość 0.",
+      "D": "Zaznaczyć pole 'Inne na pierwszej stronie' i nic więcej nie trzeba robić."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 45,
+    "question": "Jak nazywa się funkcja w zakładce 'Recenzja' w MS Word, która pozwala zobaczyć wszystkie elementy dodane, usunięte i zmiany formatowania?",
+    "options": {
+      "A": "Komentarze",
+      "B": "Malarz formatów",
+      "C": "Spis treści",
+      "D": "Śledzenie zmian"
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 46,
+    "question": "Na czym bazuje automatyczny 'Spis treści' w programie MS Word?",
+    "options": {
+      "A": "Na liczbie wstawionych obrazów.",
+      "B": "Na ręcznie wpisanych numerach stron.",
+      "C": "Na zastosowanych w tekście Stylach (np. Nagłówek 1, Nagłówek 2).",
+      "D": "Na wstawionych podziałach strony."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 47,
+    "question": "Jak w programie MS Excel nazywa się cały dokument (plik), który zawiera arkusze?",
+    "options": {
+      "A": "Skoroszyt",
+      "B": "Tabela",
+      "C": "Baza danych",
+      "D": "Formularz"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 48,
+    "question": "Jaki znak musi znajdować się na początku komórki w MS Excel, aby program potraktował jej zawartość jako formułę?",
+    "options": {
+      "A": "* (gwiazdka)",
+      "B": "# (krzyżyk)",
+      "C": "= (znak równości)",
+      "D": "$ (dolar)"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 49,
+    "question": "Która funkcja MS Excel oblicza liczbę komórek spełniających określone założenia?",
+    "options": {
+      "A": "SUMA",
+      "B": "JEŻELI",
+      "C": "LICZ.JEŻELI",
+      "D": "MAX"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 50,
+    "question": "Jaki jest operator potęgowania w formułach MS Excel?",
+    "options": {
+      "A": "^ (daszek)",
+      "B": "** (dwie gwiazdki)",
+      "C": "POW()",
+      "D": "! (wykrzyknik)"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 51,
+    "question": "Jak nazywa się funkcja MS Excel pozwalająca wypełnić komórki serią danych, np. numerami od 1 do 1000?",
+    "options": {
+      "A": "Wypełnianie błyskawiczne",
+      "B": "Seria danych",
+      "C": "Autowypełnianie",
+      "D": "Sortowanie"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 52,
+    "question": "Jak nazywa się funkcja w MS Excel, która automatyzuje powtarzalne zadania poprzez rejestrowanie kliknięć myszą i sekwencji klawiszy?",
+    "options": {
+      "A": "Formuła",
+      "B": "Makro",
+      "C": "Tabela przestawna",
+      "D": "Formatowanie warunkowe"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 53,
+    "question": "Na której karcie w MS Excel, domyślnie ukrytej, znajdują się narzędzia do tworzenia i uruchamiania makr?",
+    "options": {
+      "A": "Dane",
+      "B": "Formuły",
+      "C": "Deweloper",
+      "D": "Recenzja"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 54,
+    "question": "Jak w prezentacji zdefiniowano 'Motyw' w programie MS PowerPoint?",
+    "options": {
+      "A": "Jako pojedynczy slajd tytułowy.",
+      "B": "Jako zestaw animacji i przejść.",
+      "C": "Jako projekt slajdu zawierający pasujące kolory, czcionki i efekty specjalne.",
+      "D": "Jako okienko notatek prelegenta."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 55,
+    "question": "Co, według porad, należy zrobić, aby utrzymać czytelność i uwagę odbiorców prezentacji PowerPoint?",
+    "options": {
+      "A": "Używać jak najwięcej animacji i przejść.",
+      "B": "Minimalizować liczbę slajdów.",
+      "C": "Stosować czcionkę mniejszą niż 20, aby zmieścić więcej tekstu.",
+      "D": "Używać bardzo jaskrawego tła, aby przyciągnąć uwagę."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 56,
+    "question": "Jaki minimalny rozmiar czcionki jest sugerowany w prezentacji PowerPoint, aby tekst był czytelny z odległości?",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "30",
+      "D": "40"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 57,
+    "question": "Gdzie w programie PowerPoint można umieścić dodatkowe informacje i uwagi, które nie są widoczne dla publiczności, a jedynie dla prezentera?",
+    "options": {
+      "A": "W 'Notatkach prelegenta'.",
+      "B": "W 'Stopce' slajdu.",
+      "C": "W 'Komentarzach'.",
+      "D": "W obiekcie 'WordArt'."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 58,
+    "question": "Jaki jest główny cel programu MS Access według prezentacji?",
+    "options": {
+      "A": "Tworzenie złożonych prezentacji multimedialnych.",
+      "B": "Edycja i formatowanie tekstu naukowego.",
+      "C": "Przechowywanie i śledzenie informacji, np. o zapasach lub kontaktach.",
+      "D": "Wykonywanie skomplikowanych obliczeń matematycznych i finansowych."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 59,
+    "question": "Jak nazywa się podstawowy obiekt bazy danych MS Access służący do przechowywania danych?",
+    "options": {
+      "A": "Formularz",
+      "B": "Raport",
+      "C": "Kwerenda",
+      "D": "Tabela"
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 60,
+    "question": "Który obiekt MS Access jest opisany jako 'podobny do gablot sklepowych' i służy do graficznego wprowadzania, edycji lub wyświetlania danych?",
+    "options": {
+      "A": "Formularz",
+      "B": "Tabela",
+      "C": "Raport",
+      "D": "Kwerenda"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 61,
+    "question": "Do czego służą 'Kwerendy' w programie MS Access?",
+    "options": {
+      "A": "Do przechowywania danych w wierszach i kolumnach.",
+      "B": "Do tworzenia graficznego interfejsu dla użytkownika.",
+      "C": "Do przeszukiwania, sortowania i wyświetlania danych według określonych warunków.",
+      "D": "Do formatowania i podsumowywania informacji w celu ich wydrukowania."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 62,
+    "question": "Który obiekt MS Access jest używany w celu 'wyświetlania, formatowania i podsumowywania informacji' z bazy danych, np. w formie wydruku?",
+    "options": {
+      "A": "Formularz",
+      "B": "Tabela",
+      "C": "Moduł",
+      "D": "Raport"
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 63,
+    "question": "Czym są 'Moduły' w bazie danych MS Access?",
+    "options": {
+      "A": "Procedurami automatyzującymi zadania, składającymi się z akcji.",
+      "B": "Zbiorami procedur i funkcji napisanych w języku Visual Basic.",
+      "C": "Gotowymi do użycia bazami danych.",
+      "D": "Graficznymi obiektami do wprowadzania danych."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 64,
+    "question": "Co to jest 'Relacja' w kontekście bazy danych MS Access?",
+    "options": {
+      "A": "Procedura napisana w języku Visual Basic.",
+      "B": "Logiczne połączenie pomiędzy dwoma tabelami, określające wspólne pola.",
+      "C": "Graficzny widok danych z tabeli.",
+      "D": "Podsumowanie danych gotowe do wydruku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 65,
+    "question": "Co to jest 'Klucz podstawowy' w tabeli MS Access?",
+    "options": {
+      "A": "Klucz obcy, który łączy się z inną tabelą.",
+      "B": "Pole lub pola jednoznacznie identyfikujące każdy rekord w tabeli.",
+      "C": "Pierwsze pole (kolumna) w każdej tabeli.",
+      "D": "Hasło wymagane do otwarcia tabeli."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 66,
+    "question": "Co to jest 'Klucz obcy' w tabeli MS Access?",
+    "options": {
+      "A": "Klucz podstawowy w innej tabeli.",
+      "B": "Pole, które jednoznacznie identyfikuje rekord w bieżącej tabeli.",
+      "C": "Pole w jednej tabeli, które zawiera wartości odpowiadające wartościom w kluczu podstawowym innej tabeli.",
+      "D": "Ukryte pole używane do szyfrowania danych."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 67,
+    "question": "Jaka jest jedna z głównych zalet korzystania z relacyjnej bazy danych (osobnych tabel) wymieniona w prezentacji?",
+    "options": {
+      "A": "Większe zużycie miejsca na dysku, ale szybszy dostęp.",
+      "B": "Spójność danych, ponieważ każdy element jest rejestrowany tylko raz w jednej tabeli.",
+      "C": "Możliwość tworzenia bardziej skomplikowanych graficznie formularzy.",
+      "D": "Automatyczne tworzenie kopii zapasowych co godzinę."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 68,
+    "question": "Jaki jest domyślny klucz podstawowy po utworzeniu nowej tabeli w MS Access?",
+    "options": {
+      "A": "Nazwisko (Krótki tekst)",
+      "B": "Identyfikator (Autonumerowanie)",
+      "C": "Data (Data/Godzina)",
+      "D": "Pierwsze pole (Krótki tekst)"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 69,
+    "question": "Jak nazywa się obiekt w MS Access, który umożliwia wyświetlenie danych jednocześnie w 'Widoku arkusza danych' i 'Widoku formularza'?",
+    "options": {
+      "A": "Raport dzielony",
+      "B": "Formularz dzielony",
+      "C": "Kwerenda dzielona",
+      "D": "Tabela dzielona"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 70,
+    "question": "Jaka jest maksymalna liczba znaków w polu typu 'Krótki tekst' w tabeli MS Access?",
+    "options": {
+      "A": "64",
+      "B": "255",
+      "C": "1024",
+      "D": "65 535"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 71,
+    "question": "Jaka jest maksymalna liczba pól w tabeli MS Access?",
+    "options": {
+      "A": "255",
+      "B": "1024",
+      "C": "32",
+      "D": "Nie ma limitu."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 72,
+    "question": "Jaka jest maksymalna liczba jednocześnie podłączonych użytkowników do bazy danych MS Access?",
+    "options": {
+      "A": "10",
+      "B": "64",
+      "C": "255",
+      "D": "1000"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 73,
+    "question": "Jaki jest maksymalny rozmiar bazy danych MS Access (.accdb lub .mdb) wraz ze wszystkimi obiektami?",
+    "options": {
+      "A": "1 gigabajt",
+      "B": "2 gigabajty (z miejscem na obiekty systemowe)",
+      "C": "10 gigabajtów",
+      "D": "Ograniczony tylko miejscem na dysku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 74,
+    "question": "Czym, według prezentacji, jest 'Program'?",
+    "options": {
+      "A": "Zbiorem danych wejściowych i wyjściowych.",
+      "B": "Notacją opisującą proces przekształcania danych wejściowych w wyjściowe według algorytmu.",
+      "C": "Ciągiem rozkazów i danych w kodzie maszynowym procesora.",
+      "D": "Zintegrowanym środowiskiem służącym do tworzenia oprogramowania."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 75,
+    "question": "Jak prezentacja definiuje 'Kod źródłowy'?",
+    "options": {
+      "A": "Program zapisany w kodzie maszynowym, czytelny dla komputera.",
+      "B": "Wynik działania algorytmu, generowany przez program.",
+      "C": "Program napisany w języku programowania, w postaci zrozumiałej dla programisty.",
+      "D": "Informacje dostarczone do programu przez użytkownika."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 76,
+    "question": "Który z poniższych *nie* jest wymieniony jako paradygmat programowania?",
+    "options": {
+      "A": "Programowanie obiektowe",
+      "B": "Programowanie proceduralne",
+      "C": "Programowanie maszynowe",
+      "D": "Programowanie deklaratywne"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 77,
+    "question": "Czym jest 'IDE' (Zintegrowane środowisko programistyczne)?",
+    "options": {
+      "A": "Aplikacją służącą do tworzenia, modyfikowania i testowania oprogramowania.",
+      "B": "Specjalnym typem algorytmu rekurencyjnego.",
+      "C": "Językiem programowania niskiego poziomu.",
+      "D": "Plikiem nagłówkowym dołączanym do kodu źródłowego."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 78,
+    "question": "Jaką główną cechę musi posiadać algorytm, zgodnie z definicją 'uporządkowany, uściślony i ...'?",
+    "options": {
+      "A": "Musi być optymalny.",
+      "B": "Musi być rekurencyjny.",
+      "C": "Musi być skończony.",
+      "D": "Musi być proceduralny."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 79,
+    "question": "Który z poniższych *nie* jest podstawowym parametrem algorytmu wymienionym w prezentacji?",
+    "options": {
+      "A": "Złożoność czasowa",
+      "B": "Złożoność pamięciowa",
+      "C": "Złożoność obliczeniowa",
+      "D": "Stabilność numeryczna"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 80,
+    "question": "Który sposób zapisu algorytmu *nie* został wymieniony w prezentacji?",
+    "options": {
+      "A": "Opis słowny",
+      "B": "Lista kroków",
+      "C": "Schemat blokowy",
+      "D": "Diagram UML"
+    },
+    "correctAnswer": "D",
+    "points": 1
+  },
+  {
+    "id": 81,
+    "question": "Który rodzaj algorytmu *nie* został wymieniony w prezentacji?",
+    "options": {
+      "A": "Iteracyjny",
+      "B": "Obiektowy",
+      "C": "Rekurencyjny",
+      "D": "Sekwencyjny"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 82,
+    "question": "Jaki kształt w schemacie blokowym oznacza 'Blok DECYZYJNY' (warunek)?",
+    "options": {
+      "A": "Romb",
+      "B": "Prostokąt",
+      "C": "Równoległobok",
+      "D": "Elipsa (zaokrąglony prostokąt)"
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 83,
+    "question": "Jaki kształt w schemacie blokowym oznacza 'Blok PROCES (OPERACYJNY)' (np. obliczenia)?",
+    "options": {
+      "A": "Romb",
+      "B": "Prostokąt",
+      "C": "Równoległobok",
+      "D": "Elipsa (zaokrąglony prostokąt)"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 84,
+    "question": "Jaki kształt w schemacie blokowym oznacza 'Blok wejścia/wyjścia' (np. WPROWADŹ, WYPROWADŹ)?",
+    "options": {
+      "A": "Romb",
+      "B": "Prostokąt",
+      "C": "Równoległobok",
+      "D": "Elipsa (zaokrąglony prostokąt)"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 85,
+    "question": "Jaka jest jedna z podstawowych zasad tworzenia schematów blokowych?",
+    "options": {
+      "A": "Należy używać składni języka C++, aby schemat był precyzyjny.",
+      "B": "Schemat powinien być prosty, czytelny i nie używać składni konkretnego języka programowania.",
+      "C": "Należy unikać komentowania bloków, aby nie zaciemniać obrazu.",
+      "D": "Należy umieścić jak najwięcej operacji w jednym bloku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 86,
+    "question": "Która pętla w schematach blokowych sprawdza warunek *po* wykonaniu bloku instrukcji?",
+    "options": {
+      "A": "Pętla 'for'",
+      "B": "Pętla 'while'",
+      "C": "Pętla 'do-while'",
+      "D": "Instrukcja 'case'"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 87,
+    "question": "Co bada operacja 'c mod 2' w algorytmie sprawdzającym parzystość liczby?",
+    "options": {
+      "A": "Iloraz z dzielenia c przez 2.",
+      "B": "Czy c jest równe 2.",
+      "C": "Resztę z dzielenia c przez 2.",
+      "D": "Czy c jest większe od 2."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 88,
+    "question": "Jak nazywa się etap w procesie tworzenia programu, który polega na tłumaczeniu kodu źródłowego na kod wynikowy?",
+    "options": {
+      "A": "Preprocesor",
+      "B": "Kompilacja",
+      "C": "Linkowanie",
+      "D": "Modelowanie"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 89,
+    "question": "Jak nazywa się etap, który łączy skompilowane moduły i biblioteki w 'gotowy program'?",
+    "options": {
+      "A": "Edycja kodu źródłowego",
+      "B": "Kompilacja",
+      "C": "Linkowanie (Łączenie)",
+      "D": "Uruchamianie"
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 90,
+    "question": "Czym jest 'Pseudokod'?",
+    "options": {
+      "A": "Błędnie napisanym kodem źródłowym.",
+      "B": "Kodem wynikowym w postaci dwójkowej.",
+      "C": "Zapisem algorytmu składającym się ze słów w języku polskim i znaków graficznych.",
+      "D": "Specjalnym typem komentarza w kodzie."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 91,
+    "question": "Które słowo kluczowe w pseudokodzie odpowiada za wprowadzanie danych?",
+    "options": {
+      "A": "Drukuj",
+      "B": "Podaj",
+      "C": "Oblicz",
+      "D": "Jeżeli"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 92,
+    "question": "Czym jest 'Debugger'?",
+    "options": {
+      "A": "Programem do pisania kodu źródłowego.",
+      "B": "Narzędziem do dynamicznej analizy programów w celu odnalezienia błędów.",
+      "C": "Algorytmem do sortowania danych.",
+      "D": "Osobą, która testuje oprogramowanie."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 93,
+    "question": "Jaka jest podstawowa różnica między 'Funkcją' a 'Procedurą' (podprogramem typu 'void') pokazana w prezentacji?",
+    "options": {
+      "A": "Funkcja używa pętli, a procedura instrukcji warunkowych.",
+      "B": "Funkcja zwraca wartość (np. przez 'return'), a procedura 'void' wykonuje operacje, ale nic nie zwraca.",
+      "C": "Funkcja musi być w osobnym pliku, a procedura może być w pliku 'main'.",
+      "D": "Funkcja jest szybsza od procedury."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 94,
+    "question": "Do czego służy operator modulo (%) w C/C++?",
+    "options": {
+      "A": "Do obliczania procentu z liczby.",
+      "B": "Do obliczania reszty z dzielenia liczb całkowitych.",
+      "C": "Do obliczania reszty z dzielenia liczb rzeczywistych (float/double).",
+      "D": "Do potęgowania liczb."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 95,
+    "question": "Czym jest 'Iteracja'?",
+    "options": {
+      "A": "Odwoływaniem się funkcji do samej siebie.",
+      "B": "Wielokrotnym powtarzaniem tej samej instrukcji lub instrukcji w pętli.",
+      "C": "Algorytmem szukania największego wspólnego dzielnika.",
+      "D": "Błędem w programie powodującym jego zawieszenie."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 96,
+    "question": "Czym jest 'Rekurencja' (Rekursja)?",
+    "options": {
+      "A": "Odwoływaniem się funkcji lub definicji do samej siebie.",
+      "B": "Wielokrotnym powtarzaniem instrukcji w pętli 'for'.",
+      "C": "Procesem kompilacji kodu źródłowego.",
+      "D": "Instrukcją warunkową 'if-else'."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 97,
+    "question": "Do czego służy Algorytm Euklidesa?",
+    "options": {
+      "A": "Do obliczania silni z liczby.",
+      "B": "Do rozwiązywania równań kwadratowych.",
+      "C": "Do wyznaczania Największego Wspólnego Dzielnika (NWD) dwóch liczb.",
+      "D": "Do sortowania liczb w tablicy."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  }
+]

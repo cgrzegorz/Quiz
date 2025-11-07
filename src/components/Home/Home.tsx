@@ -13,9 +13,14 @@ const semestersConfig = [
         variant: "primary",
       },
       {
-        name: "Ochrona Własności",
+        name: "Ochrona własności intelektualnej",
         path: "/ochronaWlasnosci1",
         variant: "outline-secondary",
+      },
+       {
+        name: "Informatyka",
+        path: "/informatyka1",
+        variant: "primary",
       },
     ],
   },
