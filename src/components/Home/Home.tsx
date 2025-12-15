@@ -9,19 +9,19 @@ const semestersConfig = [
     courses: [
       {
         name: "Ekonomia",
-        path: "/ekonomia1",
+        path: "/ekonomia",
         variant: "primary",
       },
       {
         name: "Ochrona własności intelektualnej",
-        path: "/ochronaWlasnosci1",
+        path: "/ochronaWlasnosci",
         variant: "outline-secondary",
       },
-       {
-        name: "Informatyka",
-        path: "/informatyka1",
-        variant: "primary",
-      },
+      //  {
+      //   name: "Informatyka",
+      //   path: "/informatyka1",
+      //   variant: "primary",
+      // },
     ],
   },
 ];

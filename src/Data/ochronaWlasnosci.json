@@ -1,192 +1,1560 @@
 [
   {
     "id": 1,
-    "question": "Co zapewnia konwencja berneńska z 1886 r.?",
+    "question": "Z którego roku pochodzi polska ustawa o prawie autorskim i prawach pokrewnych?",
     "options": {
-      "A": "Globalną rejestrację patentów za pomocą jednego wniosku.",
-      "B": "Automatyczną ochronę praw autorskich po stworzeniu utworu, bez rejestracji.",
-      "C": "Ochronę znaków towarowych wyłącznie na terenie Europy.",
-      "D": "Ujednolicenie przepisów dotyczących nieuczciwej konkurencji."
-    },
-    "correctAnswer": "B",
-    "points": 1
-  },
-  {
-    "id": 2,
-    "question": "Czym zajmuje się konwencja paryska z 1883 r.?",
-    "options": {
-      "A": "Ochroną patentów, znaków towarowych i wzorów przemysłowych.",
-      "B": "Wyłącznie ochroną praw autorskich w internecie.",
-      "C": "Finansowaniem wynalazców i artystów.",
-      "D": "Ustalaniem minimalnych stawek licencyjnych za utwory muzyczne."
+      "A": "1994 r.",
+      "B": "2000 r.",
+      "C": "1926 r.",
+      "D": "1993 r."
     },
     "correctAnswer": "A",
     "points": 1
   },
   {
-    "id": 3,
-    "question": "Jaką kluczową zasadę wprowadziła konwencja paryska z 1883 r.?",
+    "id": 2,
+    "question": "Która ustawa reguluje kwestie patentów i znaków towarowych w Polsce?",
     "options": {
-      "A": "Zasadę dozwolonego użytku (fair use).",
-      "B": "Zasadę wyczerpania prawa (exhaustion).",
-      "C": "Zasadę pierwszeństwa (priority), czyli możliwość \"zarezerwowania\" daty zgłoszenia.",
-      "D": "Zasadę obowiązkowej rejestracji każdego dzieła."
+      "A": "Ustawa o zwalczaniu nieuczciwej konkurencji.",
+      "B": "Prawo własności przemysłowej z 30 czerwca 2000 r.",
+      "C": "Konwencja Berneńska.",
+      "D": "Ustawa o ochronie baz danych."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 3,
+    "question": "Czego dotyczy ustawa z dnia 16 kwietnia 1993 r.?",
+    "options": {
+      "A": "Ochrony baz danych.",
+      "B": "Prawa autorskiego.",
+      "C": "Zwalczania nieuczciwej konkurencji.",
+      "D": "Prawa atomowego."
     },
     "correctAnswer": "C",
     "points": 1
   },
   {
     "id": 4,
-    "question": "Co reguluje ustawa o prawie autorskim?",
+    "question": "Gdzie i kiedy podpisano Konwencję o ochronie własności przemysłowej (ochrona rozwiązań technicznych)?",
     "options": {
-      "A": "Wyłącznie zasady rejestracji wynalazków w urzędzie patentowym.",
-      "B": "Kwestie związane z czynami nieuczciwej konkurencji w reklamie.",
-      "C": "Utwory, prawa twórców, licencje, dozwolony użytek i prawa pokrewne.",
-      "D": "Zasady ochrony i rejestracji baz danych."
+      "A": "W Bernie, 1886 r.",
+      "B": "W Paryżu, 1883 r.",
+      "C": "W Rzymie, 1961 r.",
+      "D": "W Sztokholmie, 1967 r."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "points": 1
   },
   {
     "id": 5,
-    "question": "Co reguluje prawo własności przemysłowej?",
+    "question": "Co jest głównym celem Konwencji Berneńskiej z 1886 r.?",
     "options": {
-      "A": "Wyłącznie prawa autorów książek i muzyki.",
-      "B": "Patenty, znaki towarowe, wzory przemysłowe i użytkowe.",
-      "C": "Zasady budowy fabryk i zakładów produkcyjnych.",
-      "D": "Ochronę danych osobowych w przemyśle."
+      "A": "Ochrona znaków towarowych.",
+      "B": "Ochrona dzieł literackich i artystycznych (prawa autorskie).",
+      "C": "Rejestracja patentów w USA.",
+      "D": "Zwalczanie nieuczciwej konkurencji."
     },
     "correctAnswer": "B",
     "points": 1
   },
   {
     "id": 6,
-    "question": "Co reguluje ustawa o zwalczaniu nieuczciwej konkurencji?",
+    "question": "W którym roku Polska przystąpiła do Konwencji Paryskiej?",
     "options": {
-      "A": "Ustalanie cen maksymalnych na produkty pierwszej potrzeby.",
-      "B": "Przyznawanie patentów na wynalazki biotechnologiczne.",
-      "C": "Zasady przyznawania licencji na oprogramowanie komputerowe.",
-      "D": "Czyny nieuczciwej konkurencji w handlu, reklamie i oznaczeniu produktów."
+      "A": "1919 r.",
+      "B": "1945 r.",
+      "C": "1989 r.",
+      "D": "2004 r."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "points": 1
   },
   {
     "id": 7,
-    "question": "Co chroni ustawa o ochronie baz danych?",
+    "question": "Kiedy podpisano konwencję ustanawiającą WIPO (Światową Organizację Własności Intelektualnej)?",
     "options": {
-      "A": "Sprzęt komputerowy (serwery) przechowujący bazy danych.",
-      "B": "Tylko i wyłącznie bazy danych należące do instytucji rządowych.",
-      "C": "Dobór, zestawienie, strukturę oraz nakład inwestycyjny baz danych.",
-      "D": "Hasła dostępu do baz danych i systemy szyfrowania."
+      "A": "1967 r. w Sztokholmie.",
+      "B": "1970 r. w Waszyngtonie.",
+      "C": "1891 r. w Madrycie.",
+      "D": "1996 r. w Genewie."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "points": 1
   },
   {
     "id": 8,
-    "question": "Kiedy uchwalono ustawę o zwalczaniu nieuczciwej konkurencji?",
+    "question": "Czego dotyczy Układ Waszyngtoński z 1970 r.?",
     "options": {
-      "A": "4 lutego 1994 r.",
-      "B": "16 kwietnia 1993 r.",
-      "C": "30 czerwca 2000 r.",
-      "D": "27 lipca 2001 r."
+      "A": "Współpracy patentowej.",
+      "B": "Ochrony fonogramów.",
+      "C": "Praw autorskich w internecie.",
+      "D": "Znaków towarowych."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "points": 1
   },
   {
     "id": 9,
-    "question": "Kiedy uchwalono ustawę o ochronie baz danych?",
+    "question": "Porozumienie Madryckie z 1891 r. reguluje kwestie:",
     "options": {
-      "A": "16 kwietnia 1993 r.",
-      "B": "4 lutego 1994 r.",
-      "C": "27 lipca 2001 r.",
-      "D": "30 czerwca 2000 r."
+      "A": "Międzynarodowej rejestracji znaków towarowych.",
+      "B": "Ochrony artystów wykonawców.",
+      "C": "Topografii układów scalonych.",
+      "D": "Wynalazków biotechnologicznych."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "points": 1
   },
   {
     "id": 10,
-    "question": "Kiedy uchwalono ustawę Prawo własności przemysłowej?",
+    "question": "Czego dotyczyła Konwencja Rzymska z 1961 r.?",
     "options": {
-      "A": "30 czerwca 2000 r.",
-      "B": "27 lipca 2001 r.",
-      "C": "16 kwietnia 1993 r.",
-      "D": "4 lutego 1994 r."
+      "A": "Ochrony praw artystów wykonawców, producentów fonogramów i organizacji nadawczych.",
+      "B": "Ochrony patentowej leków.",
+      "C": "Handlu w internecie.",
+      "D": "Utworzenia Europejskiego Urzędu Patentowego."
     },
     "correctAnswer": "A",
     "points": 1
   },
   {
     "id": 11,
-    "question": "Kiedy uchwalono ustawę o prawie autorskim i prawach pokrewnych?",
+    "question": "Jak definiuje się 'Własność intelektualną'?",
     "options": {
-      "A": "27 lipca 2001 r.",
-      "B": "30 czerwca 2000 r.",
-      "C": "16 kwietnia 1993 r.",
-      "D": "4 lutego 1994 r."
+      "A": "Tylko jako patenty na wynalazki techniczne.",
+      "B": "Prawo związane z działalnością intelektualną w dziedzinie literackiej, artystycznej, naukowej i przemysłowej.",
+      "C": "Zbiór zasad dotyczących sprzedaży komputerów.",
+      "D": "Prawo własności budynków firmowych."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "B",
     "points": 1
   },
   {
     "id": 12,
-    "question": "Jaki był cel traktatów genewskich z 1996 r. (Traktaty WIPO)?",
+    "question": "Co to jest Know-how?",
     "options": {
-      "A": "Ustanowienie międzynarodowego urzędu patentowego.",
-      "B": "Zakazanie kopiowania utworów w internecie.",
-      "C": "Dostosowanie prawa autorskiego do realiów internetu i środowiska cyfrowego.",
-      "D": "Regulacja międzynarodowej rejestracji znaków towarowych."
+      "A": "Opublikowany opis patentowy dostępny dla każdego.",
+      "B": "Wiedza techniczna lub organizacyjna o charakterze poufnym, użyteczna w działalności gospodarczej.",
+      "C": "Rodzaj znaku towarowego.",
+      "D": "Nazwa międzynarodowej konwencji."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "points": 1
   },
   {
     "id": 13,
-    "question": "Czego dotyczył protokół madrycki z 1989 r.?",
+    "question": "Które z poniższych NIE jest wymieniane przez WIPO jako element własności intelektualnej?",
     "options": {
-      "A": "Uproszczenia międzynarodowej rejestracji znaków towarowych.",
-      "B": "Ochrony programów komputerowych jako utworów literackich.",
-      "C": "Globalnej koordynacji ochrony wynalazków.",
-      "D": "Zasad dozwolonego użytku w internecie."
+      "A": "Wynalazki.",
+      "B": "Nieruchomości gruntowe.",
+      "C": "Wzory przemysłowe.",
+      "D": "Odkrycia naukowe."
     },
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "points": 1
   },
   {
     "id": 14,
-    "question": "Czego dotyczyło porozumienie madryckie z 1891 r.?",
+    "question": "Czy prawa autorskie osobiste można zbyć (sprzedać)?",
     "options": {
-      "A": "Rejestracji międzynarodowych znaków towarowych.",
-      "B": "Rejestracji międzynarodowych patentów.",
-      "C": "Ochrony praw autorskich artystów wykonawców.",
-      "D": "Zasad ochrony baz danych."
-    },
-    "correctAnswer": "A",
-    "points": 1
-  },
-  {
-    "id": 15,
-    "question": "Co umożliwia układ waszyngtoński (PCT) z 1970 r.?",
-    "options": {
-      "A": "Automatyczne przyznanie patentu we wszystkich krajach członkowskich.",
-      "B": "Ochronę praw autorskich w internecie.",
-      "C": "Jednorazowe zgłoszenie patentowe, które może działać w wielu państwach.",
-      "D": "Międzynarodową rejestrację wzorów przemysłowych."
+      "A": "Tak, ale tylko w formie pisemnej.",
+      "B": "Tak, po upływie 70 lat.",
+      "C": "Nie, są niezbywalne i wieczne.",
+      "D": "Tak, jeśli twórca wyrazi zgodę."
     },
     "correctAnswer": "C",
     "points": 1
   },
   {
-    "id": 16,
-    "question": "Jaki jest cel konwencji sztokholmskiej z 1967 r., która ustanowiła WIPO?",
+    "id": 15,
+    "question": "Kiedy Polska przystąpiła do Europejskiego Urzędu Patentowego?",
     "options": {
-      "A": "Ustanowienie światowego sądu ds. własności intelektualnej.",
-      "B": "Globalna koordynacja ochrony własności intelektualnej i wspieranie twórczości.",
-      "C": "Regulacja cen licencji na oprogramowanie.",
-      "D": "Dostosowanie prawa patentowego do wymogów ekologii."
+      "A": "1 marca 2004 r.",
+      "B": "1 maja 2004 r.",
+      "C": "28 grudnia 1918 r.",
+      "D": "1 stycznia 1999 r."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 16,
+    "question": "Kiedy utworzono Urząd Patentowy RP?",
+    "options": {
+      "A": "W 1989 r.",
+      "B": "28 grudnia 1918 r.",
+      "C": "W 1945 r.",
+      "D": "W 1920 r."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 17,
+    "question": "Jak nazywa się organ urzędowy wydawany przez Urząd Patentowy RP?",
+    "options": {
+      "A": "Dziennik Ustaw.",
+      "B": "Monitor Polski.",
+      "C": "Wiadomości Urzędu Patentowego.",
+      "D": "Patent News."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 18,
+    "question": "Co jest przedmiotem prawa autorskiego?",
+    "options": {
+      "A": "Tylko utwory zarejestrowane w urzędzie.",
+      "B": "Każdy przejaw działalności twórczej o indywidualnym charakterze, ustalony w jakiejkolwiek postaci.",
+      "C": "Tylko dzieła o wysokiej wartości artystycznej.",
+      "D": "Pomysły i idee w głowie twórcy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 19,
+    "question": "System 'Copyright' jest charakterystyczny dla państw:",
+    "options": {
+      "A": "Systemu Common Law (np. USA, UK).",
+      "B": "Europy Kontynentalnej (np. Polska, Francja).",
+      "C": "Azji Wschodniej.",
+      "D": "Byłego Związku Radzieckiego."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 20,
+    "question": "Od którego momentu utwór jest objęty ochroną prawnoautorską?",
+    "options": {
+      "A": "Od momentu rejestracji.",
+      "B": "Od momentu opublikowania.",
+      "C": "Od momentu ustalenia, bez konieczności rejestracji.",
+      "D": "Od momentu sprzedaży pierwszego egzemplarza."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 21,
+    "question": "Co z poniższej listy JEST objęte ochroną prawnoautorską?",
+    "options": {
+      "A": "Same idee i pomysły.",
+      "B": "Metody matematyczne.",
+      "C": "Sposób wyrażenia utworu (konkretne dzieło).",
+      "D": "Akty normatywne."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 22,
+    "question": "Który z poniższych elementów NIE jest przedmiotem prawa autorskiego?",
+    "options": {
+      "A": "Wiersz.",
+      "B": "Proste informacje prasowe.",
+      "C": "Fotografia.",
+      "D": "Program komputerowy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 23,
+    "question": "Czy akty normatywne i ich urzędowe projekty są chronione prawem autorskim?",
+    "options": {
+      "A": "Tak, zawsze.",
+      "B": "Nie.",
+      "C": "Tak, jeśli są opublikowane w książce.",
+      "D": "Tak, przez 5 lat."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 24,
+    "question": "Do jakich celów można używać loga politechniki wg notatek?",
+    "options": {
+      "A": "Dowolnych, komercyjnych.",
+      "B": "Na użytek administracyjny, do promocji i prac naukowych.",
+      "C": "Tylko na koszulkach.",
+      "D": "Logo nie jest chronione."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 25,
+    "question": "W jakim celu można używać godła i flagi?",
+    "options": {
+      "A": "Jako element reklamy piwa.",
+      "B": "Aby wyrazić patriotyzm i przynależność narodową.",
+      "C": "Jako logo prywatnej firmy.",
+      "D": "Nie można ich używać w ogóle."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 26,
+    "question": "Co to są 'utwory nierozłączne'?",
+    "options": {
+      "A": "Utwory, w których nie można wyodrębnić wkładów poszczególnych współtwórców.",
+      "B": "Utwory, które można podzielić na części.",
+      "C": "Utwory stworzone przez jedną osobę.",
+      "D": "Utwory muzyczne z tekstem."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 27,
+    "question": "Ile trwają autorskie prawa majątkowe?",
+    "options": {
+      "A": "50 lat od publikacji.",
+      "B": "70 lat od śmierci twórcy.",
+      "C": "25 lat od rejestracji.",
+      "D": "Są wieczne."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 28,
+    "question": "Na kogo przechodzą prawa majątkowe po ich wygaśnięciu (po 70 latach)?",
+    "options": {
+      "A": "Na rodzinę twórcy.",
+      "B": "Na wydawcę.",
+      "C": "Na Skarb Państwa (domena publiczna).",
+      "D": "Przestają istnieć całkowicie."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 29,
+    "question": "Czym charakteryzują się autorskie prawa osobiste?",
+    "options": {
+      "A": "Są ograniczone w czasie.",
+      "B": "Można się ich zrzec.",
+      "C": "Nie są ograniczone w czasie i nie podlegają zbyciu.",
+      "D": "Dotyczą tylko wynagrodzenia."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 30,
+    "question": "Które prawo pozwala na korzystanie z utworu bez zgody twórcy w ramach 'prawa cytatu'?",
+    "options": {
+      "A": "Prawo własności przemysłowej.",
+      "B": "Dozwolony użytek.",
+      "C": "Licencja wyłączna.",
+      "D": "Patent."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 31,
+    "question": "Co to jest 'utwór osierocony'?",
+    "options": {
+      "A": "Utwór, którego twórca nie żyje i nie ma spadkobierców.",
+      "B": "Utwór, którego twórcy nie udało się ustalić lub odnaleźć.",
+      "C": "Utwór napisany przez dziecko.",
+      "D": "Utwór bez wartości artystycznej."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 32,
+    "question": "Jaka kara grozi za przywłaszczenie sobie autorstwa (plagiat)?",
+    "options": {
+      "A": "Tylko pouczenie.",
+      "B": "Grzywna, ograniczenie wolności lub pozbawienie wolności do lat 3.",
+      "C": "Pozbawienie wolności do lat 10.",
+      "D": "Zakaz pracy na uczelni."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 33,
+    "question": "Jaka jest maksymalna kara pozbawienia wolności za paserstwo prawami autorskimi?",
+    "options": {
+      "A": "Do 2 lat.",
+      "B": "Od 3 miesięcy do 5 lat.",
+      "C": "Do 10 lat.",
+      "D": "Do 1 roku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 34,
+    "question": "Gdzie uchwalono pierwszą ustawę patentową w Europie?",
+    "options": {
+      "A": "W Polsce.",
+      "B": "We Francji (1791 r.).",
+      "C": "W Niemczech.",
+      "D": "W Wielkiej Brytanii."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 35,
+    "question": "Aby uzyskać patent, wynalazek musi być:",
+    "options": {
+      "A": "Tylko nowy.",
+      "B": "Nowy, posiadać poziom wynalazczy i nadawać się do przemysłowego stosowania.",
+      "C": "Tylko ładny i estetyczny.",
+      "D": "Tani w produkcji."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 36,
+    "question": "Czy można opatentować sposób leczenia ludzi?",
+    "options": {
+      "A": "Tak, zawsze.",
+      "B": "Tak, ale tylko w USA.",
+      "C": "Nie, sposoby leczenia i terapii nie są patentowalne.",
+      "D": "Tak, jeśli jest skuteczny."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 37,
+    "question": "Czy odkrycie naukowe jest wynalazkiem w rozumieniu prawa patentowego?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie.",
+      "C": "Tak, jeśli zostanie opisane.",
+      "D": "Zależy od dziedziny."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 38,
+    "question": "Jaki był pierwszy patent udzielony w Polsce?",
+    "options": {
+      "A": "Silnik parowy.",
+      "B": "Łopata do pieczenia chleba.",
+      "C": "Lampa naftowa.",
+      "D": "Sposób destylacji ropy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 39,
+    "question": "Co zawiera zgłoszenie wynalazku?",
+    "options": {
+      "A": "Tylko podanie.",
+      "B": "Podanie, opis, zastrzeżenia, skrót opisu i ewentualne rysunki.",
+      "C": "Gotowy produkt.",
+      "D": "Biznesplan."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 40,
+    "question": "Ile wynosi czas ochrony patentowej na wynalazek?",
+    "options": {
+      "A": "10 lat.",
+      "B": "15 lat.",
+      "C": "20 lat.",
+      "D": "25 lat."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 41,
+    "question": "Co to jest Wzór Użytkowy?",
+    "options": {
+      "A": "Nowe i użyteczne rozwiązanie o charakterze technicznym dotyczące kształtu lub budowy.",
+      "B": "Nowy wygląd produktu (design).",
+      "C": "Logo firmy.",
+      "D": "Nazwa geograficzna."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 42,
+    "question": "Ile wynosi okres ochrony Wzoru Użytkowego?",
+    "options": {
+      "A": "5 lat.",
+      "B": "10 lat.",
+      "C": "20 lat.",
+      "D": "15 lat."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 43,
+    "question": "Jaki dokument potwierdza ochronę Wzoru Użytkowego?",
+    "options": {
+      "A": "Patent.",
+      "B": "Prawo ochronne.",
+      "C": "Prawo z rejestracji.",
+      "D": "Certyfikat jakości."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 44,
+    "question": "Co to jest Wzór Przemysłowy?",
+    "options": {
+      "A": "Rozwiązanie techniczne silnika.",
+      "B": "Nowa i posiadająca indywidualny charakter postać wytworu (wygląd, kolorystyka, kształt).",
+      "C": "Sposób produkcji.",
+      "D": "Znak słowny."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 45,
+    "question": "Ile wynosi maksymalny okres ochrony Wzoru Przemysłowego?",
+    "options": {
+      "A": "10 lat.",
+      "B": "20 lat.",
+      "C": "25 lat.",
+      "D": "50 lat."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 46,
+    "question": "Jaki rodzaj ochrony przysługuje Wzorom Przemysłowym?",
+    "options": {
+      "A": "Patent.",
+      "B": "Prawo z rejestracji.",
+      "C": "Prawo autorskie (wyłącznie).",
+      "D": "Brak ochrony."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 47,
+    "question": "Ile wynosi czas ochrony Topografii układów scalonych?",
+    "options": {
+      "A": "10 lat od końca roku wprowadzenia do obrotu.",
+      "B": "20 lat.",
+      "C": "5 lat.",
+      "D": "Bezterminowo."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 48,
+    "question": "Co jest funkcją Znaku Towarowego?",
+    "options": {
+      "A": "Ochrona rozwiązania technicznego.",
+      "B": "Odróżnianie towarów jednego przedsiębiorstwa od towarów innych przedsiębiorstw.",
+      "C": "Ochrona dzieła literackiego.",
+      "D": "Opisanie składu chemicznego produktu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 49,
+    "question": "Ile trwa okres ochronny na Znak Towarowy?",
+    "options": {
+      "A": "Jednorazowo 20 lat.",
+      "B": "10 lat z możliwością wielokrotnego przedłużania (odnawiania).",
+      "C": "15 lat.",
+      "D": "5 lat."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 50,
+    "question": "Co to są Oznaczenia Geograficzne?",
+    "options": {
+      "A": "Mapy w atlasie.",
+      "B": "Oznaczenia wskazujące na pochodzenie towaru z danego terenu, wiążące się z jego jakością.",
+      "C": "Adresy stron internetowych.",
+      "D": "Współrzędne GPS firmy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+    {
+      "id": 51,
+      "question": "W którym roku uchwalono pierwszą ustawę patentową w USA?",
+      "options": {
+        "A": "1790 r.",
+        "B": "1791 r.",
+        "C": "1883 r.",
+        "D": "1918 r."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "question": "Kiedy uchwalono ustawę o ochronie baz danych w Polsce?",
+      "options": {
+        "A": "4 lutego 1994 r.",
+        "B": "27 lipca 2001 r.",
+        "C": "30 czerwca 2000 r.",
+        "D": "16 kwietnia 1993 r."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "question": "Ile państw zrzesza Światowa Organizacja Własności Intelektualnej (WIPO)?",
+      "options": {
+        "A": "117",
+        "B": "50",
+        "C": "191",
+        "D": "205"
+      },
+      "correctAnswer": "C",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "question": "Czego dotyczy Protokół madrycki z 1989 r.?",
+      "options": {
+        "A": "Rejestracji znaków towarowych.",
+        "B": "Ochrony praw autorskich w internecie.",
+        "C": "Patentowania leków.",
+        "D": "Ochrony folkloru."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "question": "Co definiuje pojęcie 'Stanu techniki' w prawie patentowym?",
+      "options": {
+        "A": "Wszystko, co zostało udostępnione do wiadomości powszechnej przed datą zgłoszenia wynalazku.",
+        "B": "Tylko opatentowane wynalazki.",
+        "C": "Wiedza dostępna tylko ekspertom.",
+        "D": "Stan maszyn w fabryce."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "question": "Co z poniższej listy NIE jest uważane za wynalazek (nie podlega patentowaniu)?",
+      "options": {
+        "A": "Nowa maszyna rolnicza.",
+        "B": "Programy do maszyn cyfrowych.",
+        "C": "Nowy związek chemiczny.",
+        "D": "Ulepszony mechanizm zegarka."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "question": "Czy plany, zasady i metody dotyczące gier podlegają patentowaniu?",
+      "options": {
+        "A": "Tak, zawsze.",
+        "B": "Nie.",
+        "C": "Tak, jeśli są grami komputerowymi.",
+        "D": "Tak, jako wzór przemysłowy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "question": "Co oznacza, że utwór ma 'charakter indywidualny'?",
+      "options": {
+        "A": "Że został stworzony przez jedną osobę.",
+        "B": "Że zawiera piętno osobowości twórcy i jest niepowtarzalny.",
+        "C": "Że jest podpisany.",
+        "D": "Że został sprzedany."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "question": "Czy koncepcje matematyczne są chronione prawem autorskim?",
+      "options": {
+        "A": "Tak.",
+        "B": "Nie.",
+        "C": "Tylko skomplikowane wzory.",
+        "D": "Tak, jeśli są opublikowane."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "question": "Jaka instytucja wydaje 'Wiadomości Urzędu Patentowego'?",
+      "options": {
+        "A": "Sejm RP.",
+        "B": "Urząd Patentowy RP.",
+        "C": "Polska Akademia Nauk.",
+        "D": "Sąd Najwyższy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "question": "Do czego, zgodnie z regulaminem, można używać flagi i godła uczelni?",
+      "options": {
+        "A": "Do promocji imprez komercyjnych.",
+        "B": "Aby wyrazić patriotyzm i przynależność narodową (szczególnie podczas świąt).",
+        "C": "Jako tło do zdjęć na Facebooku.",
+        "D": "Dowolnie, bez ograniczeń."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "question": "Do jakich celów przeznaczone jest logo politechniki?",
+      "options": {
+        "A": "Wyłącznie do użytku prywatnego studentów.",
+        "B": "Na użytek administracyjny, promocja, do pracy naukowej.",
+        "C": "Jako element dekoracyjny odzieży sprzedawanej w sklepie.",
+        "D": "Nie ma określonych zasad."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "question": "Co to są 'utwory rozłączne'?",
+      "options": {
+        "A": "Utwory, które nie mają autora.",
+        "B": "Utwory zbiorowe, w których wkłady twórców nadają się do wyodrębnienia i samodzielnej eksploatacji.",
+        "C": "Utwory, których nie można podzielić.",
+        "D": "Filmy i piosenki."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "question": "Czy do wykonywania praw autorskich do całości utworu nierozłącznego potrzebna jest zgoda wszystkich współtwórców?",
+      "options": {
+        "A": "Nie, wystarczy zgoda jednego.",
+        "B": "Tak.",
+        "C": "Tylko zgoda wydawcy.",
+        "D": "Zależy od umowy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "question": "Czego dotyczy ustawa o prawie autorskim z 4 lutego 1994 r.?",
+      "options": {
+        "A": "Tylko praw autorskich.",
+        "B": "Prawa autorskiego i praw pokrewnych.",
+        "C": "Ochrony wynalazków.",
+        "D": "Zwalczania nieuczciwej konkurencji."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "question": "Jakie miasto wiąże się z konwencją z 1996 r. dotyczącą praw autorskich (WIPO)?",
+      "options": {
+        "A": "Paryż.",
+        "B": "Genewa.",
+        "C": "Rzym.",
+        "D": "Berlin."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "question": "Czym jest 'reemitowanie utworu'?",
+      "options": {
+        "A": "Jedną z czynności wobec utworu (polem eksploatacji).",
+        "B": "Nielegalnym kopiowaniem.",
+        "C": "Tworzeniem remiksu.",
+        "D": "Sprzedażą płyty."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "question": "Kto jest pierwotnym podmiotem prawa autorskiego?",
+      "options": {
+        "A": "Wydawca.",
+        "B": "Twórca.",
+        "C": "Sponsor.",
+        "D": "Urząd Patentowy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "question": "Czy prawa autorskie majątkowe mogą być przedmiotem dziedziczenia?",
+      "options": {
+        "A": "Tak.",
+        "B": "Nie.",
+        "C": "Tylko w linii męskiej.",
+        "D": "Tylko za zgodą sądu."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "question": "Czy licencja na utwór przenosi prawa autorskie na stałe?",
+      "options": {
+        "A": "Tak, licencja to to samo co sprzedaż praw.",
+        "B": "Nie, licencja to upoważnienie do korzystania z utworu, a nie przeniesienie praw.",
+        "C": "Tak, ale tylko licencja wyłączna.",
+        "D": "Zależy od rodzaju utworu."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "question": "Które z poniższych działań mieści się w ramach dozwolonego użytku?",
+      "options": {
+        "A": "Sprzedaż pirackich płyt.",
+        "B": "Przytaczanie urywków utworów (prawo cytatu).",
+        "C": "Publikacja całej książki w internecie bez zgody autora.",
+        "D": "Użycie utworu w reklamie bez licencji."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "question": "Czy biblioteki mogą udostępniać książki w ramach dozwolonego użytku?",
+      "options": {
+        "A": "Nie, muszą płacić za każde wypożyczenie.",
+        "B": "Tak (książki w bibliotece).",
+        "C": "Tylko książki naukowe.",
+        "D": "Tylko ebooki."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "question": "Jaka kara grozi za rozpowszechnianie utworu bez uprawnienia?",
+      "options": {
+        "A": "Grzywna, ograniczenie wolności lub pozbawienie wolności do lat 2.",
+        "B": "Do 5 lat więzienia.",
+        "C": "Tylko grzywna.",
+        "D": "Prace społeczne."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "question": "Jaka jest kara za niedozwolone utrwalanie lub zwielokrotnianie utworu?",
+      "options": {
+        "A": "Do 2 lat pozbawienia wolności.",
+        "B": "Do 5 lat pozbawienia wolności.",
+        "C": "Do 10 lat pozbawienia wolności.",
+        "D": "Brak kary."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "question": "Jaką karą zagrożone jest paserstwo prawami autorskimi?",
+      "options": {
+        "A": "Grzywną.",
+        "B": "Pozbawieniem wolności od 3 miesięcy do 5 lat.",
+        "C": "Pozbawieniem wolności do lat 2.",
+        "D": "Dożywociem."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "question": "Jaka kara grozi za niedozwolone wytwarzanie urządzeń do usuwania zabezpieczeń?",
+      "options": {
+        "A": "Do 3 lat pozbawienia wolności.",
+        "B": "Do 1 roku.",
+        "C": "Tylko grzywna.",
+        "D": "Upomnienie."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "question": "Wzór przemysłowy chroni:",
+      "options": {
+        "A": "Sposób działania urządzenia.",
+        "B": "Wygląd wytworu (cechy linii, konturów, kolorystykę).",
+        "C": "Kod źródłowy programu.",
+        "D": "Nazwę firmy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "question": "Przykładem wzoru użytkowego podanym w notatkach jest:",
+      "options": {
+        "A": "Kod HTML.",
+        "B": "Kubek z dodanym uszkiem (kształt/użyteczność).",
+        "C": "Obraz olejny.",
+        "D": "Symfonia."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "question": "Co oznacza skrót WIPO?",
+      "options": {
+        "A": "World International Patent Office.",
+        "B": "World Intellectual Property Organization.",
+        "C": "Wydział Informatyki Politechniki Opolskiej.",
+        "D": "Warszawski Instytut Prawa Ochronnego."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "question": "Jakie prawo chroni topografię układów scalonych?",
+      "options": {
+        "A": "Patent.",
+        "B": "Prawo z rejestracji.",
+        "C": "Prawo autorskie.",
+        "D": "Prawo cytatu."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "question": "Ile lat ochrony (łącznie z przedłużeniami) może trwać ochrona znaku towarowego?",
+      "options": {
+        "A": "Maksymalnie 10 lat.",
+        "B": "Maksymalnie 20 lat.",
+        "C": "Może trwać w nieskończoność, pod warunkiem odnawiania co 10 lat.",
+        "D": "50 lat."
+      },
+      "correctAnswer": "C",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "question": "Jakie rodzaje znaków towarowych wymieniono w notatkach?",
+      "options": {
+        "A": "Tylko słowne.",
+        "B": "Słowne, słowno-graficzne i graficzne.",
+        "C": "Dźwiękowe i zapachowe.",
+        "D": "Tylko logotypy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "question": "Kto może ubiegać się o patent?",
+      "options": {
+        "A": "Tylko firmy państwowe.",
+        "B": "Twórca wynalazku lub osoba uprawniona (np. pracodawca).",
+        "C": "Tylko obywatele USA.",
+        "D": "Każdy, nawet bez wynalazku."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "question": "Co to jest 'Zdolność odróżniająca' znaku towarowego?",
+      "options": {
+        "A": "Możliwość odróżnienia towarów jednego przedsiębiorstwa od innych.",
+        "B": "Jakość towaru.",
+        "C": "Cena towaru.",
+        "D": "Dostępność towaru."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "question": "Czego dotyczy 'know-how'?",
+      "options": {
+        "A": "Publicznie dostępnych informacji.",
+        "B": "Wiedzy technicznej/organizacyjnej o charakterze poufnym.",
+        "C": "Prawa cytatu.",
+        "D": "Ochrony nazw geograficznych."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "question": "Jaka jest rola Europejskiego Urzędu Patentowego?",
+      "options": {
+        "A": "Udzielanie patentów ważnych w krajach członkowskich.",
+        "B": "Ściganie przestępców.",
+        "C": "Wydawanie książek.",
+        "D": "Rejestracja firm."
+      },
+      "correctAnswer": "A",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "question": "Czy odkrycie nowej planety można opatentować?",
+      "options": {
+        "A": "Tak.",
+        "B": "Nie, odkrycia nie są wynalazkami.",
+        "C": "Tak, na 20 lat.",
+        "D": "Tak, jeśli nada się jej nazwę."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "question": "Co to są 'prawa pokrewne' (wzmiankowane przy ustawie z 1994 r.)?",
+      "options": {
+        "A": "Prawa rodziny twórcy.",
+        "B": "Prawa artystów wykonawców, producentów fonogramów, nadawców.",
+        "C": "Prawa do patentów.",
+        "D": "Prawa do znaków towarowych."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "question": "Które z poniższych jest 'czynnością wobec utworu' (polem eksploatacji)?",
+      "options": {
+        "A": "Myślenie o utworze.",
+        "B": "Najem lub użyczenie egzemplarza utworu.",
+        "C": "Krytyka utworu w rozmowie prywatnej.",
+        "D": "Przeczytanie książki w domu."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "question": "Kiedy gasną autorskie prawa majątkowe, jeśli twórca zmarł 1 stycznia 2000 roku?",
+      "options": {
+        "A": "1 stycznia 2050 r.",
+        "B": "Z końcem roku kalendarzowego, w którym upływa 70 lat od śmierci (czyli w praktyce w 2070/2071).",
+        "C": "1 stycznia 2020 r.",
+        "D": "Nigdy."
+      },
+      "correctAnswer": "B",
+      "points": 1
+    },
+  {
+    "id": 91,
+    "question": "Jaki jest czas ochrony dla Topografii Układów Scalonych?",
+    "options": {
+      "A": "20 lat od zgłoszenia.",
+      "B": "10 lat od końca roku wprowadzenia do obrotu lub rejestracji.",
+      "C": "25 lat.",
+      "D": "5 lat."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 92,
+    "question": "W którym roku Polska przystąpiła do Konwencji Paryskiej?",
+    "options": {
+      "A": "1919 r.",
+      "B": "1945 r.",
+      "C": "1989 r.",
+      "D": "2004 r."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 93,
+    "question": "Co NIE jest wymogiem uzyskania ochrony na Wzór Przemysłowy?",
+    "options": {
+      "A": "Nowość.",
+      "B": "Indywidualny charakter.",
+      "C": "Poziom wynalazczy (rozwiązanie problemu technicznego).",
+      "D": "Postać wytworu."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 94,
+    "question": "Czego dotyczy ustawa z dnia 27 lipca 2001 r.?",
+    "options": {
+      "A": "Prawa autorskiego.",
+      "B": "Ochrony baz danych.",
+      "C": "Zwalczania nieuczciwej konkurencji.",
+      "D": "Prawa atomowego."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 95,
+    "question": "Która cecha jest kluczowa dla Wzoru Użytkowego?",
+    "options": {
+      "A": "Musi to być przedmiot o trwałej postaci (kształt/budowa).",
+      "B": "Musi być utworem muzycznym.",
+      "C": "Musi mieć walory wyłącznie estetyczne.",
+      "D": "Musi być cieczą lub gazem."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 96,
+    "question": "Jaka jest maksymalna kara pozbawienia wolności za rozpowszechnianie utworu bez uprawnienia?",
+    "options": {
+      "A": "Do lat 2.",
+      "B": "Do lat 5.",
+      "C": "Do lat 10.",
+      "D": "Dożywocie."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 97,
+    "question": "Co grozi za niedozwolone wytwarzanie przedmiotów (urządzeń) służących do usuwania zabezpieczeń?",
+    "options": {
+      "A": "Grzywna, ograniczenie wolności lub pozbawienie wolności do lat 3.",
+      "B": "Tylko grzywna.",
+      "C": "Pozbawienie wolności do lat 10.",
+      "D": "Pouczenie."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 98,
+    "question": "Czy urzędowe dokumenty, materiały, znaki i symbole są przedmiotem prawa autorskiego?",
+    "options": {
+      "A": "Tak, są chronione.",
+      "B": "Nie, nie są przedmiotami prawa autorskiego.",
+      "C": "Tak, ale tylko te wytworzone po 2000 roku.",
+      "D": "Zależy od decyzji urzędu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 99,
+    "question": "Co to jest 'rejestr patentowy'?",
+    "options": {
+      "A": "Lista pracowników urzędu.",
+      "B": "Oficjalny spis prowadzony przez Urząd Patentowy zawierający informacje o udzielonych patentach.",
+      "C": "Prywatny notatnik wynalazcy.",
+      "D": "Spis książek w bibliotece."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 100,
+    "question": "Która konwencja reguluje kwestie zwalczania nieuczciwej konkurencji (obok ochrony własności przemysłowej)?",
+    "options": {
+      "A": "Konwencja Paryska (1883).",
+      "B": "Konwencja Berneńska (1886).",
+      "C": "Układ Waszyngtoński.",
+      "D": "Porozumienie Madryckie."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 101,
+    "question": "W jakiej sprawie orzeka Urząd Patentowy RP w trybie spornym?",
+    "options": {
+      "A": "W sprawach o rozwód.",
+      "B": "W sprawach unieważnienia patentu lub prawa ochronnego.",
+      "C": "W sprawach karnych o kradzież.",
+      "D": "W sprawach mandantów drogowych."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 102,
+    "question": "Czy twórcy przysługuje pierwszeństwo w opublikowaniu utworu?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie, decyduje wydawca.",
+      "C": "Nie, decyduje sponsor.",
+      "D": "Tylko w przypadku filmów."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 103,
+    "question": "Które prawo chroni 'cechy linii, konturów, kształtów, kolorystykę lub strukturę'?",
+    "options": {
+      "A": "Patent na wynalazek.",
+      "B": "Wzór przemysłowy.",
+      "C": "Topografia układu scalonego.",
+      "D": "Oznaczenie geograficzne."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 104,
+    "question": "Jakie jest główne zadanie WIPO?",
+    "options": {
+      "A": "Produkcja leków.",
+      "B": "Tworzenie zrównoważonego, światowego systemu ochrony własności intelektualnej.",
+      "C": "Organizowanie koncertów.",
+      "D": "Kontrola internetu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 105,
+    "question": "W którym roku podpisano ustawę o zwalczaniu nieuczciwej konkurencji?",
+    "options": {
+      "A": "16 kwietnia 1993 r.",
+      "B": "2000 r.",
+      "C": "1994 r.",
+      "D": "2001 r."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 106,
+    "question": "Co chroni Prawo Autorskie w przypadku programów komputerowych?",
+    "options": {
+      "A": "Tylko algorytm.",
+      "B": "Program jako utwór (kod, forma wyrażenia).",
+      "C": "Funkcjonalność programu (to, co robi).",
+      "D": "Pomysł na aplikację."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 107,
+    "question": "Czy proste informacje prasowe są chronione prawem autorskim?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie.",
+      "C": "Tak, jeśli są opublikowane w dużej gazecie.",
+      "D": "Tak, przez 24 godziny."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 108,
+    "question": "Które stwierdzenie dotyczące praw autorskich osobistych jest fałszywe?",
+    "options": {
+      "A": "Są wieczne.",
+      "B": "Są niezbywalne.",
+      "C": "Gasną 70 lat po śmierci twórcy.",
+      "D": "Chronią więź twórcy z utworem."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 109,
+    "question": "Co to jest 'Biuro Międzynarodowe WIPO'?",
+    "options": {
+      "A": "Siedziba ONZ.",
+      "B": "Sekretariat Światowej Organizacji Własności Intelektualnej.",
+      "C": "Urząd celny.",
+      "D": "Sąd arbitrażowy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 110,
+    "question": "Jaki rodzaj prawa wyłącznego chroni Znak Towarowy?",
+    "options": {
+      "A": "Patent.",
+      "B": "Prawo ochronne.",
+      "C": "Prawo autorskie.",
+      "D": "Licencja przymusowa."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 111,
+    "question": "Ile trwa ochrona wzoru użytkowego?",
+    "options": {
+      "A": "10 lat.",
+      "B": "15 lat.",
+      "C": "20 lat.",
+      "D": "25 lat."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 112,
+    "question": "Co to jest 'pole eksploatacji'?",
+    "options": {
+      "A": "Teren kopalni.",
+      "B": "Sposób korzystania z utworu (np. druk, nagranie, internet).",
+      "C": "Miejsce pracy twórcy.",
+      "D": "Rodzaj papieru."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 113,
+    "question": "Czy twórca może przenieść na inną osobę prawo do autorstwa utworu (prawo osobiste)?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie.",
+      "C": "Tak, za opłatą.",
+      "D": "Tak, w testamencie."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 114,
+    "question": "Co oznacza, że utwór jest 'ustalony'?",
+    "options": {
+      "A": "Został wydrukowany.",
+      "B": "Został unaoczniony (zmaterializowany) w jakikolwiek sposób, pozwalający na zapoznanie się z nim osobom trzecim.",
+      "C": "Został sprzedany.",
+      "D": "Został zarejestrowany w urzędzie."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 115,
+    "question": "Czym różni się wzór przemysłowy od wynalazku?",
+    "options": {
+      "A": "Wynalazek to rozwiązanie techniczne, a wzór przemysłowy to wygląd (estetyka).",
+      "B": "Niczym, to to samo.",
+      "C": "Wynalazek chroni się krócej.",
+      "D": "Wzór przemysłowy musi być cieczą."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 116,
+    "question": "W jakim mieście podpisano konwencję o ochronie dzieł literackich i artystycznych?",
+    "options": {
+      "A": "W Paryżu.",
+      "B": "W Bernie.",
+      "C": "W Madrycie.",
+      "D": "W Nowym Jorku."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 117,
+    "question": "Jaki akt prawny reguluje kwestie 'utworów osieroconych'?",
+    "options": {
+      "A": "Prawo o ruchu drogowym.",
+      "B": "Ustawa o prawie autorskim i prawach pokrewnych.",
+      "C": "Kodeks karny.",
+      "D": "Ustawa o ochronie środowiska."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 118,
+    "question": "Czy można opatentować teorię naukową (np. E=mc^2)?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie, teorie naukowe nie są wynalazkami.",
+      "C": "Tak, ale tylko w Europie.",
+      "D": "Tak, jeśli jest prawdziwa."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 119,
+    "question": "Co grozi za przypisanie sobie autorstwa cudzego utworu?",
+    "options": {
+      "A": "Grzywna, ograniczenie wolności lub pozbawienie wolności do lat 3.",
+      "B": "Tylko przeprosiny.",
+      "C": "Do 10 lat więzienia.",
+      "D": "Utrata pracy."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 120,
+    "question": "W którym roku powstał WIPO?",
+    "options": {
+      "A": "1970 r. (wejście w życie konwencji sztokholmskiej).",
+      "B": "1883 r.",
+      "C": "1945 r.",
+      "D": "2000 r."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 121,
+    "question": "Czym jest 'utwór zbiorowy'?",
+    "options": {
+      "A": "Utwór stworzony przez wiele osób (współtwórców).",
+      "B": "Kolekcja znaczków.",
+      "C": "Zbiór ustaw.",
+      "D": "Utwór o dużej objętości."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 122,
+    "question": "Czy prawo autorskie chroni sposób działania (metodę) opisaną w książce?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie, chroni tylko sposób wyrażenia (opis), a nie samą metodę.",
+      "C": "Tak, jeśli książka jest naukowa.",
+      "D": "Zależy od autora."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 123,
+    "question": "Czy logo uczelni może być używane do pracy naukowej?",
+    "options": {
+      "A": "Tak, zgodnie z regulaminem.",
+      "B": "Nie, nigdy.",
+      "C": "Tylko za opłatą.",
+      "D": "Tylko przez rektora."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 124,
+    "question": "Która instytucja prowadzi centralny zbiór polskich i zagranicznych opisów patentowych?",
+    "options": {
+      "A": "Biblioteka Narodowa.",
+      "B": "Urząd Patentowy RP.",
+      "C": "Archiwum Państwowe.",
+      "D": "Wydawnictwo Naukowe PWN."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 125,
+    "question": "Co jest wymagane, aby uzyskać ochronę na Topografię Układu Scalonego?",
+    "options": {
+      "A": "Nowość i oryginalność.",
+      "B": "Poziom wynalazczy.",
+      "C": "Zdolność odróżniająca.",
+      "D": "Wartość artystyczna."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 126,
+    "question": "Co oznacza 'indywidualny charakter' wzoru przemysłowego?",
+    "options": {
+      "A": "Że wzór wywołuje na zorientowanym użytkowniku odmienne ogólne wrażenie niż wzory udostępnione wcześniej.",
+      "B": "Że został zrobiony ręcznie.",
+      "C": "Że jest drogi.",
+      "D": "Że posiada logo firmy."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 127,
+    "question": "Jaki jest symbol ochrony praw autorskich?",
+    "options": {
+      "A": "®",
+      "B": "©",
+      "C": "™",
+      "D": "℗"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 128,
+    "question": "Jaki symbol jest często używany przy Znakach Towarowych (zarejestrowanych)?",
+    "options": {
+      "A": "©",
+      "B": "® (Registered)",
+      "C": "PL",
+      "D": "EU"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 129,
+    "question": "Czy pomysł biznesowy (np. na Ubera) można opatentować w Polsce?",
+    "options": {
+      "A": "Tak.",
+      "B": "Nie, plany i metody dotyczące działalności gospodarczej nie są wynalazkami.",
+      "C": "Tak, jako wzór użytkowy.",
+      "D": "Tak, na 5 lat."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 130,
+    "question": "Jaki dokument jest potrzebny, aby przenieść autorskie prawa majątkowe?",
+    "options": {
+      "A": "Umowa ustna.",
+      "B": "Umowa pisemna (pod rygorem nieważności).",
+      "C": "Wystarczy e-mail.",
+      "D": "Uścisk dłoni."
     },
     "correctAnswer": "B",
     "points": 1

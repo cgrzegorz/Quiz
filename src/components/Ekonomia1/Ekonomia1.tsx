@@ -9,7 +9,7 @@ interface Question {
   points: number;
 }
 
-export const Ekonomia1 = () => {
+export const ekonomia = () => {
   return (
     <QuizTemplate title="Quiz Ekonomiczny" quizData={quizData as Question[]} />
   );
