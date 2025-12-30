@@ -1,4 +1,4 @@
-import quizData from "../../Data/Ekonomia.json";
+import quizData from "../../Data/Ekonomia_old.json";
 import { QuizTemplate } from "../QuizTemplate/QuizTemplate.tsx";
 
 interface Question {

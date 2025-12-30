@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1,
+    "question": "Na jakie dwa główne działy dzieli się ekonomia?",
+    "options": {
+      "A": "Ekonomię pozytywną i normatywną.",
+      "B": "Ekonomię rynkową i planową.",
+      "C": "Finanse i bankowość.",
+      "D": "Mikroekonomię i statystykę."
+    },
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "question": "Czym zajmuje się ekonomia normatywna?",
+    "options": {
+      "A": "Opisem faktów („jak jest”).",
+      "B": "Dostarczaniem zaleceń i oceną rzeczywistości („jak powinno być”).",
+      "C": "Analizą matematyczną.",
+      "D": "Badaniem historii gospodarczej."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 3,
+    "question": "Czym jest mikroekonomia?",
+    "options": {
+      "A": "Badaniem całej gospodarki globalnej.",
+      "B": "Badaniem zachowania poszczególnego elementu/jednostki przy założeniu stałości warunków (stopklatka).",
+      "C": "Analizą inflacji w kraju.",
+      "D": "Polityką rządu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 4,
+    "question": "Co to są dobra pośrednie?",
+    "options": {
+      "A": "Produkty gotowe do spożycia.",
+      "B": "Elementy składowe dobra finalnego (np. element procesu produkcyjnego).",
+      "C": "Usługi bankowe.",
+      "D": "Dobra luksusowe."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 5,
+    "question": "Co to są dobra społecznie niepożądane?",
+    "options": {
+      "A": "Dobra, które są za drogie.",
+      "B": "Produkty, które powinny być eliminowane ze względu na szkodliwość (np. narkotyki, alkohol).",
+      "C": "Dobra publiczne.",
+      "D": "Dobra niskiej jakości."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 6,
+    "question": "Czym są dobra wolne?",
+    "options": {
+      "A": "Dobrami, za które nie trzeba płacić podatku.",
+      "B": "Dobrami, których ilość jest nieograniczona w stosunku do potrzeb.",
+      "C": "Dobrami rzadkimi.",
+      "D": "Dobrami luksusowymi."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 7,
+    "question": "Co oznacza termin 'alokacja zasobów'?",
+    "options": {
+      "A": "Magazynowanie towarów.",
+      "B": "Proces decydowania o zastosowaniu rzadkich zasobów do różnych celów (przydział).",
+      "C": "Sprzedaż zasobów za granicę.",
+      "D": "Produkcja pieniądza."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 8,
+    "question": "Jakie prawo mówi, że zwiększając nakłady jednego czynnika (przy stałych innych), przyrost produkcji będzie coraz mniejszy?",
+    "options": {
+      "A": "Prawo popytu.",
+      "B": "Prawo malejących przychodów.",
+      "C": "Prawo Giffena.",
+      "D": "Prawo Engela."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 9,
+    "question": "Co się dzieje z użytecznością całkowitą, gdy użyteczność krańcowa (MU) jest ujemna (np. przy 4. burgerze)?",
+    "options": {
+      "A": "Użyteczność całkowita rośnie.",
+      "B": "Użyteczność całkowita spada.",
+      "C": "Użyteczność całkowita jest stała.",
+      "D": "Użyteczność całkowita wynosi zero."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 10,
+    "question": "Jakie trzy pytania fundamentalne stawia sobie gospodarka?",
+    "options": {
+      "A": "Kiedy? Gdzie? Za ile?",
+      "B": "Co? Jak? Dla kogo produkować?",
+      "C": "Ile? Dlaczego? Po co?",
+      "D": "Zysk? Koszt? Ryzyko?"
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 11,
+    "question": "Czy rynek z pieniądzem ułatwia wymianę w porównaniu do barteru?",
+    "options": {
+      "A": "Nie, utrudnia.",
+      "B": "Tak, pozwala ominąć problem „podwójnej zbieżności zapotrzebowania”.",
+      "C": "To nie ma znaczenia.",
+      "D": "Tylko w przypadku dóbr luksusowych."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 12,
+    "question": "Czym jest 'wielkość popytu' (w odróżnieniu od samego popytu)?",
+    "options": {
+      "A": "Całą krzywą na wykresie.",
+      "B": "Ilością dobra, jaką konsumenci chcą kupić po danej (konkretnej) cenie.",
+      "C": "Życzeniem konsumenta.",
+      "D": "Podażą towaru."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 13,
+    "question": "Co to są 'negatywne efekty zewnętrzne'?",
+    "options": {
+      "A": "Koszty ponoszone przez osoby trzecie, niebiorące udziału w transakcji (np. zanieczyszczenie).",
+      "B": "Straty firmy.",
+      "C": "Spadek PKB.",
+      "D": "Korzyści dla sąsiadów."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 14,
+    "question": "Co oznacza, że dobro jest 'niewykluczalne' (cecha dobra publicznego)?",
+    "options": {
+      "A": "Każdy musi je kupić.",
+      "B": "Niemożliwe lub nieopłacalne jest wykluczenie osób, które za nie nie zapłaciły.",
+      "C": "Jest dostępne tylko dla wybranych.",
+      "D": "Nie można go wyprodukować."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 15,
+    "question": "Czym są dobra Giffena?",
+    "options": {
+      "A": "Dobra luksusowe.",
+      "B": "Dobra podstawowe bez substytutów, na które popyt rośnie mimo wzrostu ceny.",
+      "C": "Dobra, na które popyt spada wraz z dochodem.",
+      "D": "Dobra darmowe."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 16,
+    "question": "Dla jakich dóbr działa Efekt Veblena?",
+    "options": {
+      "A": "Dla dóbr pierwszej potrzeby.",
+      "B": "Dla dóbr luksusowych (prestiżowych), gdzie wysoka cena napędza popyt.",
+      "C": "Dla dóbr używanych.",
+      "D": "Dla usług publicznych."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 17,
+    "question": "Czym jest 'ceteris paribus'?",
+    "options": {
+      "A": "Nazwą waluty.",
+      "B": "Założeniem stałości pozostałych czynników (warunków).",
+      "C": "Rodzajem podatku.",
+      "D": "Nazwą wykresu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 18,
+    "question": "Co to jest synergia zasobów?",
+    "options": {
+      "A": "Konkurencja między pracownikami.",
+      "B": "Zjawisko, gdzie łączny efekt zasobów jest większy niż suma ich oddzielnych efektów (współpraca).",
+      "C": "Marnowanie zasobów.",
+      "D": "Podział kapitału."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 19,
+    "question": "Jaka jest zależność popytu od dochodu dla dóbr niższego rzędu?",
+    "options": {
+      "A": "Popyt rośnie wraz z dochodem.",
+      "B": "Popyt maleje wraz ze wzrostem dochodu.",
+      "C": "Popyt jest stały.",
+      "D": "Nie ma zależności."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 20,
+    "question": "Dobra wyższego rzędu to takie, na które:",
+    "options": {
+      "A": "Popyt rośnie szybciej niż dochód konsumenta.",
+      "B": "Popyt maleje wraz z dochodem.",
+      "C": "Nikt ich nie kupuje.",
+      "D": "Cena jest zawsze niska."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 21,
+    "question": "Co oznacza ujemna mieszana elastyczność popytu dla pary dóbr?",
+    "options": {
+      "A": "Że dobra są substytutami.",
+      "B": "Że dobra są komplementarne (uzupełniają się).",
+      "C": "Że jedno jest dobrem wolnym.",
+      "D": "Że popyt nie reaguje na cenę."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 22,
+    "question": "Co to jest 'ograniczenie budżetowe' konsumenta?",
+    "options": {
+      "A": "Limit debetowy w banku.",
+      "B": "Wybór kombinacji dóbr maksymalizujących użyteczność, nie przekraczając dostępnego dochodu.",
+      "C": "Podatek nakładany przez państwo.",
+      "D": "Zakaz kupowania alkoholu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 23,
+    "question": "Co pokazuje krzywa obojętności?",
+    "options": {
+      "A": "Kombinacje dóbr dające tę samą satysfakcję (użyteczność).",
+      "B": "Kombinacje dóbr o tej samej cenie.",
+      "C": "Maksymalną produkcję fabryki.",
+      "D": "Wzrost inflacji."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 24,
+    "question": "Jak definiuje się zysk w notatkach?",
+    "options": {
+      "A": "To samo co przychód.",
+      "B": "To, co zostało z przychodu po odjęciu kosztów.",
+      "C": "Wartość sprzedaży brutto.",
+      "D": "Kwota kredytu."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 25,
+    "question": "Czym są koszty zmienne (VC)?",
+    "options": {
+      "A": "Kosztami, które ponosimy nawet nie produkując.",
+      "B": "Kosztami, które rosną wraz ze wzrostem produkcji (im więcej produkujesz, tym są wyższe).",
+      "C": "Kosztami amortyzacji.",
+      "D": "Kosztami administracyjnymi."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 26,
+    "question": "Co to jest koszt krańcowy?",
+    "options": {
+      "A": "Średni koszt produkcji.",
+      "B": "Dodatkowy koszt wyprodukowania jednej dodatkowej jednostki produktu.",
+      "C": "Całkowity koszt fabryki.",
+      "D": "Koszt reklamy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 27,
+    "question": "Czy przychód krańcowy może być ujemny?",
+    "options": {
+      "A": "Nie, nigdy.",
+      "B": "Tak, np. jeśli trzeba ponieść ogromny koszt (postawić halę), by wyprodukować jedną dodatkową sztukę.",
+      "C": "Tylko w monopolu.",
+      "D": "Tylko w niedzielę."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 28,
+    "question": "Kto ustala cenę w konkurencji doskonałej?",
+    "options": {
+      "A": "Sprzedawca (producent).",
+      "B": "Rynek (sprzedawca jest cenobiorcą).",
+      "C": "Rząd.",
+      "D": "Bank centralny."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 29,
+    "question": "Co charakteryzuje wejście na rynek w konkurencji doskonałej?",
+    "options": {
+      "A": "Jest zablokowane patentami.",
+      "B": "Jest wolne – nowi producenci mogą swobodnie rozpocząć produkcję.",
+      "C": "Wymaga zgody monopolisty.",
+      "D": "Jest bardzo kosztowne."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 30,
+    "question": "Czym jest monopol?",
+    "options": {
+      "A": "Rynkiem z wieloma sprzedawcami.",
+      "B": "Rynkiem, gdzie występuje jeden sprzedawca będący cenotwórcą.",
+      "C": "Rynkiem idealnym.",
+      "D": "Miejscem wymiany walut."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 31,
+    "question": "Jaka krzywa popytu jest charakterystyczna dla oligopolu?",
+    "options": {
+      "A": "Pozioma.",
+      "B": "Pionowa.",
+      "C": "Złamana krzywa popytu.",
+      "D": "Rosnąca."
+    },
+    "correctAnswer": "C",
+    "points": 1
+  },
+  {
+    "id": 32,
+    "question": "Co konkuruje w monopolu zamiast ceny (konkurencja niecenowa)?",
+    "options": {
+      "A": "Nic nie konkuruje.",
+      "B": "Lokalizacja i marka.",
+      "C": "Ilość pracowników.",
+      "D": "Podatki."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 33,
+    "question": "Jakie są główne cele makroekonomii (wg tabeli w notatkach)?",
+    "options": {
+      "A": "Tylko zysk firm.",
+      "B": "Wysoka produkcja, zatrudnienie, stabilność cen i równowaga bilansu zagranicznego.",
+      "C": "Likwidacja podatków.",
+      "D": "Wzrost cen akcji."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 34,
+    "question": "Co to jest polityka fiskalna?",
+    "options": {
+      "A": "Działania Banku Centralnego.",
+      "B": "Zarządzanie wydatkami publicznymi i podatkami.",
+      "C": "Kontrola stóp procentowych.",
+      "D": "Polityka handlowa firmy."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 35,
+    "question": "Co to jest PKB (Produkt Krajowy Brutto)?",
+    "options": {
+      "A": "Produkcja wytworzona przez obywateli kraju na całym świecie.",
+      "B": "Miara produkcji wytworzonej przez czynniki wytwórcze na terenie danego kraju.",
+      "C": "Suma wszystkich pensji.",
+      "D": "Budżet państwa."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 36,
+    "question": "Jak oblicza się PNB (Produkt Narodowy Brutto)?",
+    "options": {
+      "A": "PKB minus podatki.",
+      "B": "PKB plus dochody netto z tytułu własności za granicą.",
+      "C": "Tylko produkcja w kraju.",
+      "D": "PKB minus amortyzacja."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 37,
+    "question": "Co to jest PNN (Produkt Narodowy Netto)?",
+    "options": {
+      "A": "PNB minus amortyzacja.",
+      "B": "PKB plus VAT.",
+      "C": "Dochód osobisty.",
+      "D": "Zysk firm."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 38,
+    "question": "Co to jest 'Nominalny PNB'?",
+    "options": {
+      "A": "Wartość produkcji liczona w cenach stałych (bazowych).",
+      "B": "Wartość produkcji liczona po aktualnych cenach rynkowych (uwzględnia inflację).",
+      "C": "Prognoza na przyszły rok.",
+      "D": "PNB bez usług."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 39,
+    "question": "Co pozwala porównać faktyczny wzrost produkcji bez wpływu inflacji?",
+    "options": {
+      "A": "Nominalny PNB.",
+      "B": "Realny PNB (liczony w cenach roku bazowego).",
+      "C": "Wskaźnik giełdowy.",
+      "D": "Kurs dolara."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 40,
+    "question": "Które z poniższych NIE jest wliczane do PKB?",
+    "options": {
+      "A": "Inwestycje.",
+      "B": "Transfery budżetowe (np. zasiłki).",
+      "C": "Eksport netto.",
+      "D": "Konsumpcja."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 41,
+    "question": "Które podatki są uważane za korzystniejsze dla dochodu państwa wg notatek?",
+    "options": {
+      "A": "Bezpośrednie.",
+      "B": "Pośrednie.",
+      "C": "Lokalne.",
+      "D": "Dobrowolne."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 42,
+    "question": "Jaką funkcję pełni Bank Centralny?",
+    "options": {
+      "A": "Udziela kredytów firmom budowlanym.",
+      "B": "Jest bankiem banków, bankiem emisyjnym i kredytodawcą ostatniej instancji.",
+      "C": "Zajmuje się tylko podatkami.",
+      "D": "Jest prywatną firmą."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 43,
+    "question": "Co oznacza 'płynność pieniądza'?",
+    "options": {
+      "A": "Że pieniądz jest wodoodporny.",
+      "B": "Szybkość i pewność, z jaką aktywa można zamienić na gotówkę bez utraty wartości.",
+      "C": "Szybkość druku pieniądza.",
+      "D": "Kurs wymiany walut."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 44,
+    "question": "Co to jest 'stopa rezerwy'?",
+    "options": {
+      "A": "Relacja zasobu gotówki banku do ulokowanych w nim wkładów.",
+      "B": "Zysk banku.",
+      "C": "Opłata za konto.",
+      "D": "Podatek od oszczędności."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 45,
+    "question": "Jak banki komercyjne kreują pieniądz?",
+    "options": {
+      "A": "Drukując go w piwnicy.",
+      "B": "Poprzez inwestowanie wkładów klientów (udzielanie kredytów).",
+      "C": "Zabierając pieniądze z kont.",
+      "D": "Nie mogą kreować pieniądza."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 46,
+    "question": "Co się dzieje, gdy banki zmniejszają stopę rezerwy?",
+    "options": {
+      "A": "Zdolność do kreacji pieniądza rośnie.",
+      "B": "Zdolność do kreacji pieniądza maleje.",
+      "C": "Bankrutują.",
+      "D": "Nic się nie zmienia."
+    },
+    "correctAnswer": "A",
+    "points": 1
+  },
+  {
+    "id": 47,
+    "question": "Co jest ceną pieniądza w gospodarce?",
+    "options": {
+      "A": "Kurs złota.",
+      "B": "Stopa procentowa.",
+      "C": "Inflacja.",
+      "D": "Płaca minimalna."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 48,
+    "question": "Jakie są funkcje pieniądza?",
+    "options": {
+      "A": "Tylko ozdobna.",
+      "B": "Środek wymiany, miernik wartości, środek gromadzenia oszczędności.",
+      "C": "Tylko środek płatniczy.",
+      "D": "Narzędzie polityczne."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 49,
+    "question": "Co to jest 'koszt alternatywny'?",
+    "options": {
+      "A": "Najlepsze rozwiązanie.",
+      "B": "Rozwiązanie drugie po najlepszym (to, z czego rezygnujemy).",
+      "C": "Koszt produkcji.",
+      "D": "Strata finansowa."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  },
+  {
+    "id": 50,
+    "question": "Czy własność prywatna jest istotna dla funkcjonowania rynku?",
+    "options": {
+      "A": "Nie, rynek działa lepiej bez niej.",
+      "B": "Tak, jest fundamentem; ograniczenie własności ogranicza rynek.",
+      "C": "Tylko w państwach biednych.",
+      "D": "Ma znaczenie tylko dla banków."
+    },
+    "correctAnswer": "B",
+    "points": 1
+  }
+]

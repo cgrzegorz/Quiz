@@ -17,6 +17,7 @@ interface Question {
   options: Record<string, string>;
   correctAnswer: string;
   points: number;
+  explanation?: string; // Opcjonalne wyjaśnienie dla błędnych odpowiedzi
 }
 type UserAnswers = Record<number, string>;
 
@@ -237,7 +238,6 @@ export const QuizTemplate = ({ title, quizData }: QuizTemplateProps) => {
     );
   }
 
-  // --- Ekran "finished" ---
   if (gameState === "finished") {
     const { score, totalPoints, percentage, isPassed } = calculateResults();
     return (
@@ -291,6 +291,11 @@ export const QuizTemplate = ({ title, quizData }: QuizTemplateProps) => {
                     );
                   })}
                 </ListGroup>
+                {!isCorrectAnswer && question.explanation && (
+                  <Alert variant="info" className="mt-3 mb-0">
+                    <strong>💡 Wyjaśnienie:</strong> {question.explanation}
+                  </Alert>
+                )}
               </Card.Body>
             </Card>
           );
